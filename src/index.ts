@@ -128,7 +128,7 @@ async function main(){
   let multiselect = d3.select("#jobs")
     .append("select")
     .attr("class", "multiple-select-job")
-    .attr("multiple", true)
+    .attr("multiple", "true")
     .on('input', setJobs);
 
   multiselect.selectAll(".pastJobs")
