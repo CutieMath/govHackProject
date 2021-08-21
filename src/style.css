@@ -24,6 +24,7 @@ body {
 .title {
   color: #1F6A7D;
   font-size: 100px;
+  margin-bottom: 8%;
 }
 
 .sub-title {
@@ -57,6 +58,3 @@ body {
   margin: 15%;
 }
 
-.competency-box {
-  
-}
