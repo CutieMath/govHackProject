@@ -122,6 +122,7 @@ body {
   }
 }
 
+
 /* 
 *******************
 * Past Jobs section 
@@ -137,7 +138,9 @@ body {
   color: #1F6A7D;
 }
 
-
+.multiple-select-job{
+  height: 70vh;
+}
 
 /* 
 ***************************
