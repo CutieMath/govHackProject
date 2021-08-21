@@ -48,7 +48,8 @@ d3.csv(competenciesFile).then((data: d3.DSVRowArray<string>): object => {
     competency
       .append("label")
       .text((c: Competency) => c.name)
-      .attr("class", "c-name")
+      .attr("class", "competency-title")
+
 
     competency
       .append("p")
