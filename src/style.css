@@ -215,13 +215,16 @@ body {
 }
 
 
-/* jobs */
+/* jobs multi-select */
 div.jobs {
   left: 50%;
   right: 50%;
 }
 
 select {
+  margin-top: 3%;
+  border: none;
+  border-radius: 10px;
 	align-self: center;
 	color:rgba(9,32,64,1);
 	width: 100%;
