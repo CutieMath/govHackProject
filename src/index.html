@@ -6,15 +6,16 @@
   <title>Matchy Matchy</title></head>
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
-  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
+  <link href="https://fonts.googleapis.com/css2?family=Noto+Sans:wght@400;700&display=swap" rel="stylesheet">
   <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 <body>
   <!-- Opening -->
   <section id="main-section">
     <img class="logo" src="<%=require('/images/logo.png')%>">
     <h1 class="title center-it">Matchy Matchy</h1>
-    <img class="finger center-image" src="<%=require('/images/tap.png')%>">
-    <p class="center-it sub-title">Click to Start</p>
+    <a href="#competency-section"><img class="finger center-image" src="<%=require('/images/tap.png')%>"></a>
+    <p class="center-it sub-title">Click to Start</a></p>
+    
   </section>
 
   <!-- Competencies -->
@@ -22,7 +23,14 @@
       <h1 class="section-title">Rank your core 
         <br>
         <span class="high-light">Competencies</span></h1>
-      <div id="competencies" class="competency-box">
+        <div id="competencies" class="competency-box">
+      </div>
+      <div class="arrow bounce">
+        <a class="fa fa-arrow-down fa-2x" href="#job-section">
+          <svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" fill="white" class="bi bi-arrow-down-circle" viewBox="0 0 16 16">
+            <path fill-rule="evenodd" d="M1 8a7 7 0 1 0 14 0A7 7 0 0 0 1 8zm15 0A8 8 0 1 1 0 8a8 8 0 0 1 16 0zM8.5 4.5a.5.5 0 0 0-1 0v5.793L5.354 8.146a.5.5 0 1 0-.708.708l3 3a.5.5 0 0 0 .708 0l3-3a.5.5 0 0 0-.708-.708L8.5 10.293V4.5z"/>
+        </svg>
+      </a>
       </div>
   </section>
 
@@ -36,6 +44,7 @@
   <!-- Possible projects -->
   <section id="project-section">
     <h1 class="section-title"><span class="high-light">Project</span> Board</h1>
+    <p class="section-subtitle">Matching projects based on your core competence and previous job experience</p>
     <div id="projects">
     </div>
   </section>

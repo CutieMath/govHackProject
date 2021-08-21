@@ -6,8 +6,8 @@ import projectsFile from './projects.csv';
 import projectTasksFile from './projects-tasks.csv';
 import competenciesJobFile from './competencies-jobs.csv';
 import tasksFile from './tasks.csv';
-async function main(){
 
+async function main(){
   type ScoreDescription = {
     level: string,
     anchorLevel: string
@@ -127,6 +127,7 @@ async function main(){
 
   let multiselect = d3.select("#jobs")
     .append("select")
+    .attr("class", "multiple-select-job")
     .attr("multiple", true)
     .on('input', setJobs);
 
