@@ -79,11 +79,11 @@ body {
   padding: 5rem;
 }
 
-.competency-section {
-  padding: 2px 5px;
+.competency {
+  padding: 1.3rem;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  
+  border-radius: 10px;
 }
 
 .c-name {
@@ -95,8 +95,8 @@ body {
   font-weight: 400;
 }
 
-.comp-level{
-  margin-top: 5rem;
+.comp-anchor{
+  margin-top: 0;
 }
 
 
