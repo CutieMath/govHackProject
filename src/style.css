@@ -18,7 +18,12 @@ body {
 .section-title {
   font-weight: 700;
   font-size: 3rem;
-  margin-bottom: 5rem;
+}
+
+.section-subtitle {
+  font-weight: 700;
+  font-size: 1.5rem;
+  margin-top: 0;
 }
 
 .high-light {
@@ -83,6 +88,7 @@ body {
 }
 
 .competency-box {
+  margin-top: 4%;
   display: inline-flex;
   flex-wrap: wrap;
 }
@@ -125,6 +131,7 @@ body {
   }
 }
 
+
 /* 
 *******************
 * Past Jobs section 
@@ -140,6 +147,7 @@ body {
   color: #1F6A7D;
 }
 
+<<<<<<< HEAD
 div.jobs {
   left: 50%;
   right: 50%;
@@ -154,6 +162,10 @@ select {
 	cursor: pointer;
   text-align-last: center;
   font-size: x-large;
+=======
+.multiple-select-job{
+  height: 70vh;
+>>>>>>> 4a6020be5d03ba5eee376e3282075babcb72c675
 }
 
 /* 
