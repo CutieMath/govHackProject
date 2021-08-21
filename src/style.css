@@ -5,3 +5,22 @@
 #job-section {
   background-color: #104262;
 }
+
+h1, h2, p, div {
+  color: white;
+  font-family: 'Noto Sans TC', sans-serif;
+}
+
+
+
+body {
+  background-color: #104262;
+}
+
+.center-it {
+  text-align: center;
+}
+
+.title {
+  font-size: 100px;
+}
