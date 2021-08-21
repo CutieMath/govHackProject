@@ -1,28 +1,36 @@
+/* Whole page */
 h1, h2, p, div {
-  color: #1F6A7D;
   font-family: 'Noto Sans TC', sans-serif;
 }
-
 
 body {
   background: rgb(255,255,255);
   background: linear-gradient(170deg, rgba(255,255,255,1) 0%, rgba(222,235,254,1) 49%, rgba(255,255,255,1) 100%);
 }
 
+.section-title {
+  font-size: 2rem;
+}
+
+.high-light {
+  color: #03989e;
+}
+
+/* Opening section */
 .center-it {
   text-align: center;
 }
 
 .title {
+  color: #1F6A7D;
   font-size: 100px;
 }
 
 .sub-title {
+  color: #1F6A7D;
   font-size: 40px;
   margin-top: 5px;
 }
-
-
 
 .logo {
   width: 90px;
@@ -35,4 +43,16 @@ body {
   margin-left: auto;
   margin-right: auto;
   width: 10%;
+}
+
+/* Competencies Section */
+#competency-section {
+  margin-top: 15%;
+  background-color: #104262;
+  color: white;
+  margin: 0;
+}
+
+.letter-section {
+  margin: 15%;
 }
