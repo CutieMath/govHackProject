@@ -79,6 +79,10 @@ body {
   padding: 5rem;
 }
 
+.competency-box {
+  display: flex;
+}
+
 .competency {
   margin-top: 5px;
   padding: 1.3rem;
@@ -89,8 +93,8 @@ body {
 }
 
 .competency-title{
-  color: gold;
   font-weight: 700;
+  color: #9dd9dd;
 }
 
 .c-description {
