@@ -243,6 +243,7 @@ body {
 }
 
 .project:hover {
-  background-color: rgb(11,88,112);
+  background: rgb(11,88,112);
+  background: linear-gradient(170deg, rgba(11,88,112,1) 0%, rgba(14,50,96,1) 49%, rgba(9,32,64,1) 100%);
   cursor: pointer;
 }
