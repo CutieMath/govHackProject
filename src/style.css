@@ -144,13 +144,17 @@ body {
   color: #1F6A7D;
 }
 
+.search-flex {
+  display: flex;
+}
+
 
 /* search button */
 .search-box{
   width: fit-content;
   height: fit-content;
   position: relative;
-  margin: 2%;
+  margin-left: 2%;
 }
 .input-search{
   height: 50px;
