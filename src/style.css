@@ -80,7 +80,7 @@ body {
 }
 
 .competency-box {
-  display: flex;
+  display: grid;
 }
 
 .competency {
