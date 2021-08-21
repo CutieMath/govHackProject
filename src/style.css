@@ -1,10 +1,7 @@
-
-
 h1, h2, p, div {
   color: #1F6A7D;
   font-family: 'Noto Sans TC', sans-serif;
 }
-
 
 
 body {
@@ -21,12 +18,11 @@ body {
 }
 
 .sub-title {
-  font-size: 50px;
+  font-size: 40px;
+  margin-top: 5px;
 }
 
-.finger {
-  color: white;
-}
+
 
 .logo {
   width: 90px;
@@ -38,5 +34,5 @@ body {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 8%;
+  width: 10%;
 }
