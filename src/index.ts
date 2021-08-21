@@ -50,9 +50,11 @@ d3.csv(competenciesFile).then((data: d3.DSVRowArray<string>): object => {
       .text((c: Competency) => c.name)
       .attr("class", "competency-title")
 
+
     competency
       .append("p")
       .text(c => c.description)
+      .attr("class", "c-description")
 
     /* Competency descriptions */
     function changeInput(_ : InputEvent, c: Competency){
