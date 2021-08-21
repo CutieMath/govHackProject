@@ -1,6 +1,7 @@
 import './style.css';
 import * as d3 from 'd3';
 import competenciesFile from './competencies.csv';
+import jobsFile from './jobs.csv';
 
 type ScoreDescription = {
   level: string,
@@ -42,7 +43,7 @@ d3.csv(competenciesFile).then((data: d3.DSVRowArray<string>): object => {
         .data(competencies.values())
         .enter()
           .append("div")
-          .attr("class", "competencies")
+          .attr("class", "competency")
 
     competency
       .append("label")
@@ -88,3 +89,29 @@ d3.csv(competenciesFile).then((data: d3.DSVRowArray<string>): object => {
 
     return {};
 })
+
+
+
+
+/* Past Jobs */
+type Job = {
+  code: string,
+  title: string,
+  description: string
+};
+d3.csv(jobsFile).then((data : d3.DSVRowArray<string>): object => {
+  let jobs : Job[] = data.map(d => ({code: d.ANZSCO_Code, title: d.ANZSCO_Title, description: d.ANZSCO_Desc }));
+
+  let multiselect = d3.select("#jobs")
+    .append("select")
+    .attr("multiple", true)
+  multiselect.selectAll(".pastJobs")
+    .data(jobs)
+    .enter()
+    .append("option")
+      .attr("value", j => j.title)
+      .text(j => j.title)
+
+  return {}
+});
+
