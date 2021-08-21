@@ -1,4 +1,8 @@
-/* Whole page */
+/* 
+*****************
+* Whole page
+*****************
+*/
 h1, h2, p, div {
   font-family: 'Noto Sans TC', sans-serif;
 }
@@ -16,7 +20,12 @@ body {
   color: #03989e;
 }
 
-/* Opening section */
+
+/* 
+*****************
+* Opening section 
+*****************
+*/
 #main-section {
   width: 100%;
   height: 100vh;
@@ -52,7 +61,12 @@ body {
   width: 10%;
 }
 
-/* Competencies Section */
+
+/* 
+*****************
+* Competency section
+*****************
+*/
 #competency-section {
   background-color: #104262;
   color: white;
