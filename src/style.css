@@ -1,7 +1,25 @@
-#main-section {
-  background-color: #104262;
+
+
+h1, h2, p, div {
+  color: white;
+  font-family: 'Noto Sans TC', sans-serif;
 }
 
-#job-section {
-  background-color: #104262;
+
+
+body {
+  background: rgb(8,28,120);
+  background: linear-gradient(170deg, rgba(8,28,120,1) 0%, rgba(36,67,115,1) 22%, rgba(123,233,255,1) 100%);
+}
+
+.center-it {
+  text-align: center;
+}
+
+.title {
+  font-size: 100px;
+}
+
+.sub-title {
+  font-size: 50px;
 }
