@@ -1,0 +1,601 @@
+ANZSCO_Code,ANZSCO_Title,ANZSCO_Desc
+1111,Chief Executives and Managing Directors,"Chief Executives and Managing Directors determine, formulate and review the general policy programs and the overall direction of organisations within the framework established by boards of directors and similar governing bodies."
+1112,General Managers,"General Managers plan, organise, direct, control and review the day-to-day operations and major functions of commercial, industrial, government and defence organisations through departmental managers and subordinate executives."
+1213,Livestock Farmers,"Livestock Farmers plan, organise, control, coordinate and perform farming operations to breed and raise livestock."
+1214,Mixed Crop and Livestock Farmers,"Mixed Crop and Livestock Farmers plan, organise, control, coordinate and perform farming operations to both grow crops and to breed and raise livestock."
+1321,Corporate Services Managers,Corporate Services Managers organise and direct the overall administration of organisations.
+1322,Finance Managers,Finance Managers organise and direct the financial and accounting activities within organisations.
+1323,Human Resource Managers,Human Resource Managers organise and direct the human resource and workplace relations activities within organisations.
+1324,Policy and Planning Managers,Policy and Planning Managers organise and direct policy advice and strategic planning within organisations.
+1325,Research and Development Managers,Research and Development Managers organise and direct research and development activities within organisations.
+1331,Construction Managers,"Construction Managers organise and direct the construction of civil engineering projects, buildings and dwellings, and the physical and human resources involved in building and construction."
+1332,Engineering Managers,Engineering Managers organise and direct the engineering and technical operations of organisations.
+1333,"Importers, Exporters and Wholesalers","Importers, Exporters and Wholesalers organise and direct the operations of importing, exporting and wholesaling establishments."
+1336,"Supply, Distribution and Procurement Managers","Supply and Distribution Managers organise and direct the supply, storage and distribution of goods produced by organisations."
+1341,Child Care Centre Managers,Child Care Centre Managers organise and direct the activities of childcare centres and services including physical and human resources.
+1342,Health and Welfare Services Managers,Health and Welfare Services Managers organise and direct the professional and administrative aspects of health and welfare programs and services.
+1343,School Principals,"School Principals organise and direct the educational and administrative aspects of primary, middle or intermediate, and secondary schools including physical and human resources."
+1344,Education Managers,"Education Managers organise and direct educational policy, and provide advice and educational and administrative support to staff and students in educational institutions."
+1351,ICT Managers,"ICT Managers organise and direct the acquisition, development, maintenance and use of computer and telecommunication systems within organisations."
+1411,Cafe and Restaurant Managers,"Cafe and Restaurant Managers organise and control the operations of cafes, restaurants and related establishments to provide dining and catering services."
+1413,Hotel and Motel Managers,"Hotel and Motel Managers organise and control the operations of hotels and motels to provide guest accommodation, meals and other services."
+1414,Licensed Club Managers,"Licensed Club Managers organise and control the operations of licensed clubs to provide food, beverages, gaming, entertainment, sporting and other amenities for members."
+1421,Retail Managers,Retail Managers organise and control the operations of establishments which provide retail services.
+1491,"Amusement, Fitness and Sports Centre Managers","Amusement, Fitness and Sports Centre Managers organise, control and promote the activities, facilities and resources of amusement, fitness and sports centres."
+1493,Conference and Event Organisers,"Conference and Event Organisers organise and coordinate services for conferences, events, functions, banquets and seminars."
+2113,Photographers,Photographers operate still cameras to take photographs.
+2114,Visual Arts and Crafts Professionals,"Visual Arts and Crafts Professionals create visual two- and three-dimensional concepts and forms through painting, drawing, carving, sculpting, modelling, printmaking, video, multimedia, found objects, ephemera, soundscapes and other media to communicate concepts and ideas."
+2123,"Film, Television, Radio and Stage Directors","Film, Television, Radio and Stage Directors direct the artistic and production aspects of film, television, radio and stage productions."
+2124,Journalists and Writers,"Journalists and Writers research and compile news stories, write and edit news reports, commentaries and feature stories for presentation in print and electronic media, and compose written material to advertise goods and services."
+2221,Financial Brokers,Financial Brokers operate as independent agents to facilitate the trading of commodities and arrange insurance and loans of money on behalf of clients.
+2222,Financial Dealers,Financial Dealers conduct financial market transactions on behalf of clients.
+2232,ICT Trainers,"ICT Trainers analyse and evaluate information-based system training needs and objectives, and develop, schedule and conduct ICT-based system training programs and courses."
+2233,Training and Development Professionals,"Training and Development Professionals plan, develop, implement and evaluate training and development programs to ensure management and staff acquire the skills and develop the competencies required by organisations to meet organisational objectives."
+2243,Economists,"Economists perform economic research and analysis, develop and apply theories about production and distribution of goods and services and people's spending and financial behaviour, and provide advice to governments and organisations on economic policy issues."
+2245,Land Economists and Valuers,"Land Economists and Valuers provide advice on the administration and use of land and property, and assess the value of land, property and other items such as commercial equipment and objects of art."
+2246,Librarians,"Librarians develop, organise and manage library services such as collections of information, recreational resources and reader information services. "
+2251,Advertising and Marketing Professionals,"Advertising and Marketing Professionals develop and coordinate advertising strategies and campaigns, determine the market for new goods and services, and identify and develop market opportunities for new and existing goods and services."
+2252,ICT Sales Professionals,"ICT Sales Professionals manage client accounts and represent companies in selling a range of computer hardware, software and other ICT goods and services."
+2253,Public Relations Professionals,"Public Relations Professionals plan, develop, implement and evaluate information and communication strategies that create an understanding and a favourable view of organisations, their goods and services, and their role in the community."
+2254,Technical Sales Representatives,"Technical Sales Representatives represent companies in selling a range of industrial, medical and pharmaceutical goods and services."
+2311,Air Transport Professionals,"Air Transport Professionals fly and navigate aircraft, control and direct air traffic to ensure the safe and efficient operation of aircraft in flight and on the ground, and instruct students in flying aircraft."
+2322,Surveyors and Spatial Scientists,"Cartographers and Surveyors apply scientific and mathematical principles to design, prepare and revise maps and charts, plan, direct and conduct survey work to determine, delineate, plan and precisely position tracts of land, natural and constructed features, coastlines, marine floors and underground works, and manage related information systems."
+2325,Interior Designers,"Interior Designers plan, design, detail and supervise the construction of commercial, industrial, retail and residential building interiors to produce an environment tailored to a purpose, with particular emphasis on space creation, space planning, and factors that enhance living and working environments."
+2326,Urban and Regional Planners,"Urban and Regional Planners develop and implement plans and policies for the controlled use of urban and rural land, and advise on economic, environmental and social factors affecting land use."
+2333,Electrical Engineers,"Electrical Engineers design, develop and supervise the manufacture, installation, operation and maintenance of equipment, machines and systems for the generation, distribution, utilisation and control of electric power."
+2334,Electronics Engineers,"Electronics Engineers design, develop, adapt, install, test and maintain electronic components, circuits and systems used for computer systems, communication systems, entertainment and transport."
+2341,Agricultural and Forestry Scientists,"Agricultural and Forestry Scientists advise farmers, rural industries and government on aspects of farming, develop techniques for increasing productivity, and study and develop plans and policies for the management of forest areas."
+2344,"Geologists, Geophysicists and Hydrogeologists","Geologists and Geophysicists study the composition, structure and other physical attributes of the earth, locate and advise on the extraction of minerals, petroleum and ground water, and detect, monitor and forecast seismic, magnetic, electrical, thermal and oceanographic activity. "
+2346,Medical Laboratory Scientists,"Medical Laboratory Scientists conduct medical laboratory tests to assist in the diagnosis, treatment and prevention of disease."
+2347,Veterinarians,"Veterinarians diagnose, treat and prevent animal diseases, ailments and injuries."
+2411,Early Childhood Teachers,"Early Childhood Teachers teach the basics of numeracy, literacy, music, art and literature to early childhood (pre-primary) students and promote students' social, emotional, intellectual and physical development."
+2412,Primary School Teachers,"Primary School Teachers teach a range of subjects within a prescribed curriculum to primary school students and promote students' social, emotional, intellectual and physical development."
+2413,Middle School Teachers,"Middle School Teachers teach one or more subjects within a prescribed curriculum to middle school or intermediate school students and promote students' social, emotional, intellectual and physical development."
+2414,Secondary School Teachers,"Secondary School Teachers teach one or more subjects within a prescribed curriculum to secondary school students and promote students' social, emotional, intellectual and physical development."
+2415,Special Education Teachers,"Special Education Teachers teach primary, middle or intermediate, and secondary school students with learning difficulties, hearing impairment and sight impairment, and promote students' social, emotional, intellectual and physical development."
+2422,Vocational Education Teachers,"Vocational Education Teachers teach one or more subjects within a prescribed course of study at technical and further education (TAFE) institutes, polytechnics and other training institutes to tertiary students for vocational education and training purposes."
+2491,Education Advisers and Reviewers,"Education Advisers and Reviewers conduct educational research, develop course curricula and associated teaching materials for use by educational institutions, and review and examine the work of teachers and the results from curriculum programs in school settings."
+2492,"Private Art, Dance, Drama and Music Teachers","Private Tutors and Teachers teach students in the practice, theory and performance of subjects, such as art, dance, drama and music, in private training establishments."
+2511,Nutrition Professionals,"Dietitians apply the science of human nutrition to help people understand the relationship between food and health and make appropriate dietary choices to attain and maintain health, and to prevent and treat illness and disease."
+2521,Chiropractors and Osteopaths,"Chiropractors and Osteopaths diagnose and treat physiological and mechanical disorders of the locomotor system and tissue strain, stress and dysfunction that impede normal neural, vascular and biochemical mechanisms, and provide advice on preventing these disorders."
+2522,Complementary Health Therapists,"Complementary Health Therapists treat patients with physical, mental, spiritual and emotional needs by considering the whole person rather than focusing on specific symptoms and by using various therapies, techniques and practices."
+2523,Dental Practitioners,"Dental Practitioners diagnose and treat dental disease, restore normal oral function using a broad range of treatments, such as surgery and other specialist techniques, and advise on oral health."
+2524,Occupational Therapists,"Occupational Therapists assess functional limitations of people resulting from illnesses and disabilities, and provide therapy to enable people to perform their daily activities and occupations."
+2525,Physiotherapists,"Physiotherapists assess, treat and prevent disorders in human movement caused by injury or disease."
+2526,Podiatrists,"Podiatrists prevent, diagnose and treat disorders of the feet."
+2532,Anaesthetists,"Anaesthetists provide direct medical care to patients requiring general or local anaesthesia for surgical, diagnostic and other procedures such as prevention of pain and maintenance of body function."
+2533,Specialist Physicians,"Internal Medicine Specialists diagnose and treat internal human disorders and diseases using specialist testing, diagnostic and medical techniques."
+2534,Psychiatrists,"Psychiatrists diagnose, assess, treat and prevent human mental, emotional and behavioural disorders. "
+2535,Surgeons,"Surgeons perform surgery to correct deformities, repair injuries, prevent and treat diseases, and improve human functioning and appearance. "
+2541,Midwives,"Midwives provide care and advice to women during pregnancy, labour and childbirth, and postnatal care for women and babies in a range of settings such as the home, community, hospitals, clinics and health units."
+2543,Nurse Managers,"Nurse Managers manage health service units and sub-units of hospitals, aged care and community health care facilities, supervise nursing staff and financial resources to enable the provision of safe, cost effective nursing care within specified fields or for particular units, and monitor quality, clinical standards and professional development of nurses.  Registration or licensing is required."
+2544,Registered Nurses,"Registered Nurses provide nursing care to patients in hospitals, aged care and other health care facilities, and in the community.  Registration or licensing is required."
+2611,ICT Business and Systems Analysts,"ICT Business and Systems Analysts work with users to formulate system requirements, develop system plans and documentation, review and evaluate existing systems, and design and modify systems to meet users' business needs. "
+2633,Telecommunications Engineering Professionals,"Telecommunications Engineering Professionals design, construct, install, service and support telecommunications equipment, systems and facilities."
+2711,Barristers,"Barristers plead cases before civil, criminal and industrial courts and other tribunals."
+2712,Judicial and Legal Professionals,"Judicial andLegal Professionals hear legal and other matters in courts and tribunals; interpret, analyse, administer and provide advice on the law; and draft legislation."
+2713,Solicitors,"Solicitors provide legal advice, prepare and draft legal documents, and conduct negotiations on behalf of clients on matters associated with the law."
+2721,Counsellors,"Counsellors provide information on vocational, relationship, social and educational difficulties and issues, and work with people to help them to identify and define their emotional issues through therapies such as cognitive behaviour therapy, interpersonal therapy and other talking therapies."
+2722,Ministers of Religion,"Ministers of Religion perform spiritual functions associated with beliefs and practices of religious faiths, and provide motivation, guidance and training in religious life for the people of congregations and parishes, and the wider community. "
+2724,Social Professionals,"Social Professionals research and study human behaviour, society and institutions from current and historical perspectives, and transcribe text and recorded spoken material from one language into another."
+2725,Social Workers,"Social Workers assess the social needs of individuals, families and groups, assist and empower people to develop and use the skills and resources needed to resolve social and other problems, and further human wellbeing and human rights, social justice and social development."
+3111,Agricultural Technicians,"Agricultural Technicians perform tests and experiments, and provide technical support to assist Agricultural Scientists in areas such as research, production, servicing and marketing."
+3113,Primary Products Inspectors,"Primary Products Inspectors inspect animals, plants and agricultural produce and facilities to ensure compliance with government and industry standards with respect to quality, health and licensing."
+3124,Electronic Engineering Draftspersons and Technicians,"Electronic Engineering Draftspersons and Technicians assist in electronic engineering research, design, manufacture, assembly, construction, operation and maintenance of equipment, facilities and distribution systems."
+3132,Telecommunications Technical Specialists,"Telecommunications Technical Specialists develop, monitor and carry out technical support functions for telecommunications networks and install computer equipment, computer systems and microwave, telemetry, multiplexing, satellite and other radio and electromagnetic wave communication systems."
+3211,Automotive Electricians,"Automotive Electricians install, maintain and repair electrical wiring and electronic components in motor vehicles."
+3221,"Metal Casting, Forging and Finishing Trades Workers","Metal Casting, Forging & Finishing Trades fabricate mould patterns and form sand moulds and cores for the production of metal castings, heat and hammer metal into shape, and make, repair, coat and polish metal parts and articles."
+3222,Sheetmetal Trades Workers,"Sheetmetal Trades Workers mark out, shape, form and join sheetmetal and other materials to make products and components."
+3241,Panelbeaters,"Panelbeaters repair damage to metal, fibreglass and plastic body work on vehicles, and form replacement vehicle panels."
+3242,Vehicle Body Builders and Trimmers,"Vehicle Body Builders and Trimmers manufacture and repair prototype production units and purpose-built vehicle bodies, and install, repair and replace the interior trim of vehicles."
+3243,Vehicle Painters,"Vehicle Painters prepare surfaces of vehicles, match and mix colours and apply paint."
+3321,Floor Finishers,"Floor Finishers measure, cut, install and repair soft and resilient floor coverings."
+3322,Painting Trades Workers,"Painting Trades Workers apply paint, varnish, wallpaper and other finishes to protect, maintain and decorate surfaces of buildings."
+3331,Glaziers,"Glaziers measure, cut, finish, fit and install flat glass and mirrors."
+3333,Roof Tilers,"Roof Tilers cover roofs with tiles, sheets and shingles to form a waterproof surface."
+3334,Wall and Floor Tilers,"Wall and Floor Tilers lay ceramic, clay, slate, marble and glass tiles on external and internal walls and floors to provide protective and decorative finishes."
+3411,Electricians,"Electricians design, assemble, install, test, commission, diagnose, maintain and repair electrical networks, systems, circuits, equipment, components, appliances and facilities for industrial, commercial and domestic purposes, and service and repair lifts, escalators and related equipment."
+3421,Airconditioning and Refrigeration Mechanics,"Airconditioning and Refrigeration Mechanics assemble, install, maintain and repair industrial, commercial and domestic airconditioning and refrigeration systems and equipment."
+3422,Electrical Distribution Trades Workers,"Electrical Distribution Trades Workers prepare, install, repair, maintain and patrol electric power distribution networks."
+3424,Telecommunications Trades Workers,"Telecommunications Trades Workers install, maintain and repair data transmission equipment, aerial lines, conduits, cables, radio antennae and telecommunications equipment and appliances."
+3511,Bakers and Pastrycooks,"Bakers and Pastrycooks prepare and bake bread loaves and rolls, buns, cakes, biscuits and pastry goods."
+3512,Butchers and Smallgoods Makers,"Butchers and Smallgoods Makers select, cut trim, prepare and arrange meat for sale and supply, and manage the processes in the production of smallgoods."
+3513,Chefs,Chefs plan and organise the preparation and cooking of food in dining and catering establishments.
+3514,Cooks,"Cooks prepare, season and cook food in dining and catering establishments."
+3611,Animal Attendants and Trainers,"Animal Attendants and Trainers train, feed, groom and care for animals."
+3613,Veterinary Nurses,Veterinary Nurses care for animals under treatment and in temporary residence at veterinary facilities and assist Veterinarians to perform procedures and operations.
+3621,Florists,Florists prepare and sell floral arrangements.
+3622,Gardeners,"Gardeners plant, cultivate, maintain, plan and construct parks, gardens and landscapes, and inspect, diagnose and treat trees and shrubs."
+3623,Greenkeepers,"Greenkeepers establish and maintain fine turf, grassed areas and synthetic surfaces used for sporting events."
+3624,Nurserypersons,"Nurserypersons propagate and cultivate trees, shrubs, and ornamental and flowering plants in plant nurseries."
+3911,Hairdressers,"Hairdressers cut, style, colour, straighten and permanently wave hair, and treat hair and scalp conditions."
+3922,Graphic Pre-press Trades Workers,"Graphic Pre-press Trades Workers manipulate, set and compose text and graphics into a format suitable for printing and other visual media."
+3923,Printers,"Printers set up and operate letterpress, lithographic, flexographic, gravure, newspaper, instant, digital and offset printing presses."
+3933,Upholsterers,"Upholsterers make, rebuild and repair upholstered articles such as chairs, sofas, beds and mattresses."
+3941,Cabinetmakers,Cabinetmakers fabricate and repair wooden furniture.
+3991,Boat Builders and Shipwrights,"Boat Builders and Shipwrights construct, fit out and repair boats and ships."
+3994,Jewellers,"Jewellers make and repair jewellery such as rings, brooches, chains and bracelets, craft objects out of precious metals, and cut, shape and polish rough gemstones to produce fashion and industrial jewels."
+3996,Signwriters,"Signwriters design, fabricate and paint signs for displays, buildings, hoardings, boats and structures."
+4111,Ambulance Officers and Paramedics,"Ambulance Officers and Paramedics provide emergency health care and transport for injured, sick, infirm and aged persons to medical facilities."
+4113,Diversional Therapists,"Diversional Therapists design and implement recreation and leisure-based activity programs to support, challenge and enhance the psychological, spiritual, social, emotional and physical wellbeing of individuals."
+4115,Indigenous Health Workers,Indigenous Health Workers assist with the coordination and provision of health care delivery to Indigenous communities.
+4116,Massage Therapists,"Massage Therapists perform therapeutic massage and administer body treatments for health, fitness and remedial purposes."
+4221,Education Aides,"Education Aides perform non-teaching duties to assist teaching staff in schools, provide care and supervision for children in preschools, and provide assistance to Aboriginal and Torres Strait Islander students and their teachers."
+4231,Aged and Disabled Carers,"Aged and Disabled Carers provide general household assistance, emotional support, care and companionship for aged and disabled persons in their own homes."
+4232,Dental Assistants,"Dental Assistants prepare patients for dental examination and assist Dental Practitioners, Hygienists and Therapists in providing care and treatment."
+4234,Special Care Workers,"Special Care Workers provide care and supervision for children in residential childcare establishments and correctional institutions, and provide care and support to people in refuges."
+4312,Cafe Workers,Cafe Workers sell and serve food and beverages for consumption on premises in cafes.
+4313,Gaming Workers,Gaming Workers provide gaming services within casinos and other gambling establishments.
+4314,Hotel Service Managers,Hotel Service Managers supervise and coordinate the activities of hotel service workers.
+4315,Waiters,"Waiters serve food and beverages in hotels, restaurants and clubs."
+4421,Prison Officers,Prison Officers supervise and control the activities of inmates in prisons and other correctional institutions.
+4511,Beauty Therapists,"Beauty Therapists provide skin analyses, facial therapies, skin-care treatments and body treatments such as massage to clients."
+4512,Driving Instructors,Driving Instructors instruct individuals and groups in the theory and application of driving motor vehicles.
+4513,Funeral Workers,Funeral Workers prepare bodies for viewing and burial and arrange and conduct funerals.
+4514,"Gallery, Museum and Tour Guides","Gallery, Museum and Tour Guides direct and guide visitors in galleries and museums, and escort visitors on sightseeing, educational and other tours."
+4517,Travel Attendants,"Travel Attendants provide services for the safety and comfort of passengers in aircraft, ships and railway sleeping cars."
+4521,Fitness Instructors,"Fitness Instructors direct, instruct and guide individuals and groups in the pursuit of physical fitness and wellbeing."
+4522,Outdoor Adventure Guides,"Outdoor Adventure Guides direct, instruct and guide individuals and groups in outdoor adventure activities such as bungy jumping, fishing and hunting, mountaineering, trekking and whitewater rafting."
+4523,"Sports Coaches, Instructors and Officials","Sports Coaches, Instructors and Officials coach, train and instruct participants in sports, and officiate at sporting events."
+4524,Sportspersons,Sportspersons participate in sporting events for monetary gain either as individuals or as members of a team.
+5121,Office Managers,Office Managers organise and control the functions and resources of offices such as administrative systems and office personnel.
+5211,Personal Assistants,"Personal Assistants perform liaison, coordination and organisational tasks in support of Managers and Professionals."
+5311,General Clerks,General Clerks perform a range of clerical and administrative tasks.
+5412,Information Officers,"Inquiry Clerks respond to personal, written and telephone enquiries and complaints about the organisation's goods and services, provide information and refer people to other sources."
+5512,Bookkeepers,Bookkeepers maintain and evaluate records of financial transactions in account books and computerised accounting systems.
+5513,Payroll Clerks,Payroll Clerks prepare payrolls and related records for employee salaries and statutory record-keeping purposes.
+5521,Bank Workers,"Bank Workers receive deposits and pay out money in financial and commercial institutions, keep records of transactions, issue receipts and cash cheques."
+5522,Credit and Loans Officers,"Credit and Loans Officers analyse, evaluate and process credit and loan applications."
+5611,Betting Clerks,"Betting Clerks take bets from customers at betting agencies, over the telephone and on course."
+5613,Filing and Registry Clerks,Filing and Registry Clerks process and handle information and documents to maintain access to and security of database and record management systems.
+5614,Mail Sorters,"Mail Sorters receive, sort and despatch mail in organisations and postal sorting centres."
+5615,Survey Interviewers,Survey Interviewers interview people and record their responses to survey and market research questions on a range of topics.
+5616,Switchboard Operators,"Switchboard Operators operate telecommunication switchboards and consoles to assist callers establish telephone connections, and receive caller enquiries and fault reports."
+5912,Transport and Despatch Clerks,"Transport and Despatch Clerks verify and maintain records of incoming and outgoing goods, prepare goods for despatch, arrange clearance and collection of imported cargo from customs and bond stores, and arrange shipment of cargo for export."
+5991,Conveyancers and Legal Executives,"Conveyancers and Legal Executives act for and on behalf of clients in the areas of property transfer, company and business law, trusts, wills, probate and litigation."
+5992,Court and Legal Clerks,"Court and Legal Clerks provide administrative and operational support to Legal Professionals by performing clerical work associated with the functions of courts, legal practices and the administration of trusts and estates."
+5993,Debt Collectors,"Debt Collectors collect consumer, commercial, insurance and other forms of debt for clients, make arrangements to settle overdue accounts, formalise payment arrangements and follow up until accounts are fully paid."
+5994,Human Resource Clerks,"Human Resource Clerks maintain and update personnel records such as information on transfers and promotions, employee leave taken and accumulated, salaries, superannuation and taxation, qualifications and training."
+5995,Inspectors and Regulatory Officers,Inspectors and Regulatory Officers administer and enforce government and corporate regulations and standards.
+5996,"Insurance Investigators, Loss Adjusters and Risk Surveyors","Insurance Investigators and Loss Adjusters conduct investigations into insurance claims to ensure their validity, inspect and assess the damage and loss to insured properties and businesses, estimate insurance costs, and inspect insured properties to evaluate conditions affecting underwriting standards."
+5997,Library Assistants,"Library Assistants issue, receive and shelve library items and maintain associated records."
+6111,"Auctioneers, and Stock and Station Agents","Auctioneers, and Stock and Station Agents sell property at auction, and advise and represent farmers in business transactions such as buying and selling livestock, rural property, and goods and services."
+6112,Insurance Agents,Insurance Agents represent insurance companies in selling insurance to clients.
+6113,Sales Representatives,Sales Representatives represent companies to sell their goods and business services to wholesale and retail establishments.
+6211,Sales Assistants ,"Sales Assistants sell goods and services, such as food, clothing, hardware, household appliances, office supplies and cosmetics, in retail and wholesale establishments."
+6214,Pharmacy Sales Assistants,"Pharmacy Sales Assistants sell pharmaceutical goods, toiletries and related goods in retail pharmacies."
+6215,Retail Supervisors,Retail Supervisors supervise and coordinate the activities of retail sales workers.
+6217,Street Vendors and Related Salespersons,"Street Vendors and Related Salespersons sell goods and services on established routes, door-to-door, and at street and market locations."
+6311,Checkout Operators and Office Cashiers,"Checkout Operators and Office Cashiers operate cash registers and receive payments from customers, and issue receipts and return change due."
+6393,Telemarketers,"Telemarketers telephone existing and prospective customers to promote goods and services, and obtain sales and arrange sales visits."
+6394,Ticket Salespersons,"Ticket Salespersons sell tickets and make reservations for services such as travel and admission to sporting and entertainment venues, and collect fares on transport vehicles."
+6395,Visual Merchandisers,"Visual Merchandisers plan and install internal, window and fixed displays to show goods to their best advantage."
+7111,"Clay, Concrete, Glass and Stone Processing Machine Operators","Clay, Concrete, Glass & Stone Machine Operators operate machines to manufacture and finish a variety of clay, concrete, glassware and stone products by extruding, shaping, mixing, grinding, cutting and other processes."
+7112,Industrial Spraypainters,Industrial Spraypainters operate spray painting equipment to paint and apply other industrial coatings to manufactured items.
+7113,Paper and Wood Processing Machine Operators,"Paper and Wood Processing Machine Operators operate machines to manufacture paper packaging and other paper products, fibreboard stock, logs, plywood, particle board, solid laminate and similar timber products."
+7114,Photographic Developers and Printers,"Photographic Developers and Printers edit and adjust digital images, develop photographic film, and print photographic images from digital media, negatives and positives using computer software, fully automatic equipment and by separate processes."
+7115,Plastics and Rubber Production Machine Operators,Plastics and Rubber Production Machine Operators operate machines to manufacture and finish plastic and rubber products.
+7116,Sewing Machinists,Sewing Machinists operate industrial sewing machines to sew and finish garments and soft furnishings such as curtains.
+7117,Textile and Footwear Production Machine Operators,"Textile and Footwear Production Machine Operators operate machines to process raw hides and skins, raw textile fibres, and dye, weave and knit fibres for use in textile and footwear production."
+7121,"Crane, Hoist and Lift Operators","Crane, Hoist and Lift Operators operate stationary and mobile cranes, hoists, lifts and winches to lift, move and place materials, equipment and people in areas such as building sites, factories, mines, sawmills, wharves and shipyards."
+7123,Engineering Production Workers,"Engineering Production Systems Workers perform a range of production process tasks to refine and treat metals and mineral ore, fire ceramics, and operate plant to produce and finish metal products such as rods, tubing and structural shapes, and moulds for casting."
+7213,Forklift Drivers,"Forklift Drivers operate forklifts to move bulk materials, containers, crates, palletised goods, cartons and bales."
+7311,Automobile Drivers,Automobile Drivers drive motor cars to transport passengers.
+7312,Bus and Coach Drivers,Bus and Coach Drivers drive buses and coaches to transport passengers.
+7321,Delivery Drivers,Delivery Drivers drive vans and cars to deliver goods.
+7331,Truck Drivers,"Truck Drivers drive heavy trucks, removal vans, tankers and tow trucks to transport bulky goods and liquids."
+7411,Storepersons,"Storepersons receive, handle and despatch goods in stores and warehouses."
+8111,Car Detailers,"Car Detailers wash and clean exteriors and interiors of motor vehicles, and touch up paint work, glass and upholstery to prepare them for sale or rent."
+8112,Commercial Cleaners,"Commercial Cleaners clean offices, residential complexes, hospitals, schools, industrial work areas, industrial machines, construction sites and other commercial premises using heavy duty cleaning equipment."
+8113,Domestic Cleaners,"Domestic Cleaners clean and tidy private dwellings such as houses, units, flats, apartments and townhouses."
+8114,Housekeepers,"Housekeepers perform cleaning and housekeeping duties in hotels, motels and other commercial premises, and in homes."
+8115,Laundry Workers,"Laundry Workers sort, clean, fold, iron and package linen, clothing and other items in laundries and drycleaning establishments, and homes."
+8212,Concreters,"Concreters pour, spread, smooth and finish concrete for structures such as floors, stairs, ramps, footpaths and bridges."
+8213,Fencers,Fencers erect and repair fences and gates.
+8215,Paving and Surfacing Labourers,"Paving and Surfacing Labourers perform routine tasks associated in laying bituminous and other paving materials on roads, runways, parking areas and other surfaces to be paved."
+8216,Railway Track Workers,"Railway Track Workers lay and repair tracks for railways, tramways, quarries and mines, and install and repair signals and other equipment."
+8311,Food and Drink Factory Workers,Food and Drink Factory Workers perform routine tasks in manufacturing food and beverages.
+8313,"Meat, Poultry and Seafood Process Workers","Meat, Poultry and Seafood Process Workers slaughter and eviscerate poultry, and process, grade and package meat, poultry, fish and shellfish."
+8321,Packers,"Packers weigh, wrap, seal and label chocolate, fruit, vegetables, meat, seafood and other products."
+8322,Product Assemblers,"Product Assemblers put together components and subassemblies that go into the production of metal products, electrical and electronic equipment, jewellery and precious metal articles, and joinery products."
+8399,Factory Process Workers,"Factory Process Workers can work in Cement and Concrete Plants, Chemical Plant s, Clay Processing Factories, Fabric and Textile Factories, Footwear Factories, Glass Processing or Hide and Skin Processing."
+8412,Crop Farm Workers,"Crop Farm Workers perform routine tasks in producing crops such as fruit, nuts, grains and vegetables."
+8414,Garden and Nursery Labourers,"Garden and Nursery Labourers perform a variety of routine tasks in propagating, cultivating and maintaining plants in gardens and horticultural nurseries."
+8415,Livestock Farm Workers,"Livestock Farm Workers perform routine tasks in livestock, egg and wool production."
+8416,Mixed Crop and Livestock Farm Workers,Mixed Crop and Livestock Farm Workers perform routine tasks in crop cultivation and animal production.
+8511,Fast Food Cooks,Fast Food Cooks prepare foods in fast food establishments.
+8512,Food Trades Assistants,"Food Trades Assistants assist Food Trades Workers by performing routine food preparation, cleaning and storage tasks."
+8513,Kitchenhands,"Kitchenhands assist kitchen and service staff in preparing and serving food, and clean food preparation and service areas."
+8911,Freight and Furniture Handlers,"Freight and Furniture Handlers load and unload trucks, containers and rail cars, and transfer cargo between ships and other forms of transport and storage facilities."
+8912,Shelf Fillers,Shelf Fillers fill up shelves and display areas in stores and supermarkets.
+8991,Caretakers,"Caretakers maintain and clean residential buildings, schools, offices, holiday camps and caravan parks."
+8993,Handypersons,"Handypersons clean, paint, repair and maintain buildings, grounds and facilities."
+8994,Motor Vehicle Parts and Accessories Fitters,Motor Vehicle Parts and Accessories Fitters fit and replace parts and accessories on motor vehicles.
+8996,Recycling and Rubbish Collectors,"Recycling and Rubbish Collectors collect household, commercial and industrial waste for recycling and disposal."
+8997,Vending Machine Attendants,Vending Machine Attendants stock and maintain vending and amusement machines and collect money from coin boxes.
+131112,Sales and Marketing Manager,"Sales and Marketing Managers plan, organise, direct, control and coordinate advertising, public relations, sales and marketing activities within organisations. "
+131113,Advertising Manager,Advertising Managers plans and direct the advertising activities within an organisation.
+131114,Public Relations Manager,Public Relations Managers plan and direct the public relations activities within an organisation.
+133512,Production Manager in Manufacturing,Production Managers in Manufacturing plan and direct the manufacturing activities of an organisation including physical and human resources.
+133513,Production Manager in Mining,Production Managers in Mining plan and direct the production activities of a mining operation including physical and human resources.
+134411,Faculty Head,"Faculty Heads plan and direct the educational and administrative aspects of a department, faculty or school within a university or other tertiary education institution."
+135111,Chief Information Officer,"Chief Information Officers plan and direct the ICT strategies, plans and operations of an organisation to ensure the ICT infrastructure supports the organisation's overall operations and priorities."
+139912,Environmental Manager,"Environmental Managers plan and direct the development and implementation of an environmental management system within an organisation by identifying, solving and alleviating environmental issues, such as pollution and waste treatment, in compliance with environmental legislation and to ensure corporate sustainable development."
+139913,Laboratory Manager,Plans and direct the operations of a research or production laboratory.
+139914,Quality Assurance Manager,Plans and direct the deployment of quality systems and certification processes within an organisation.
+142114,Hair or Beauty Salon Manager,Organises and controls the operations of a hairdressing or beauty salon. Registration or licensing may be required.
+142115,Post Office Manager,Organises and controls the operations of a post office.
+149211,Call or Contact Centre Manager,Organises and controls the operations of a call or contact centre.
+149212,Customer Service Manager,"Plans, administers and reviews customer services and after-sales services, and maintains sound customer relations."
+149411,Fleet Manager,Organises and controls the buying and selling of vehicles for rental agencies and coordinates the leasing of vehicles. Registration or licensing may be required.
+149413,Transport Company Manager,Organises and controls the operations of an enterprise that operates a fleet of vehicles to transport goods and passengers. Registration or licensing may be required.
+149913,Facilities Manager,"Organises, controls and coordinates the strategic and operational management of buildings and facilities in public and private organisations to ensure the proper and efficient operation of all physical aspects of a facility, to create and sustain safe and productive environments for occupants."
+149914,Financial Institution Branch Manager,"Organises and controls the general operational activities of a branch of a bank, building society or credit union."
+211111,Actor,"Entertains by portraying roles in film, television, radio and stage productions. This occupation requires high levels of creative talent or personal commitment and interest as well as, or in place of, formal qualifications or experience."
+211112,Dancer or Choreographer,"Entertains by performing dances, or creates dance compositions. This occupation requires high levels of creative talent or personal commitment and interest as well as, or in place of, formal qualifications or experience."
+211113,Entertainer or Variety Artist,"Entertains by performing a variety of acts using a mix of acting, singing, dance and movement skills. This occupation requires high levels of creative talent or personal commitment and interest as well as, or in place of, formal qualifications or experience."
+211211,Composer,"Writes new and rearranges existing musical compositions such as songs, operas, symphonies, musical scores and advertising jingles. This occupation requires high levels of creative talent or personal commitment and interest as well as, or in place of, formal qualifications or experience."
+211213,Musician,"Entertains by playing one or more musical instruments. This occupation requires high levels of creative talent or personal commitment and interest as well as, or in place of, formal qualifications or experience."
+211214,Singer,"Entertains by singing songs. This occupation requires high levels of creative talent or personal commitment and interest as well as, or in place of, formal qualifications or experience."
+212111,Artistic Director,"Determines and oversees implementation of artistic policies for a performing arts organisation such as a theatre company, dance company, music ensemble, festival or venue."
+212112,Media Producer,"Plans, administers and reviews activities concerned with publishing, or the production of films, television or radio programs, theatre, music, festivals or other artistic activities."
+212113,Radio Presenter,"Prepares and presents news, sports or other information, conducts interviews, and introduces music, performances and special events on radio."
+212211,Author,Produces literary or other written work for publication or performance.
+212212,Book or Script Editor,"Evaluates manuscripts of books or scripts to determine suitability for publication or production, and edits and supervises material in preparation for publication or for production on film, television, radio or stage."
+212314,Film and Video Editor,"Makes and implements editorial decisions regarding mood, pace and climax of films, television programs, video productions or commercials."
+212411,Copywriter,Designs and composes written material to advertise products and services.
+212415,Technical Writer,"Researches and writes technical information-based material and documentation for articles, manuals, text books, handbooks, or multimedia products, usually for education or corporate purposes."
+221111,Accountant  ,"Provides services relating to compliance-based financial reporting, auditing, insolvency and accounting information systems; and advises on associated record-keeping requirements. Registration or licensing may be required for certain services such as auditing."
+221112,Management Accountant,"Provides services relating to performance-based financial reporting, asset valuation, budgetary systems, cost management, pricing, forecasting and the strategic governance of organisations. Provides advice on financial planning, risk management, carbon sequestration projects and carbon pricing and provides management with reports to assist in decision-making. May provide insight into cost performance and support the implementation of benchmarking and quality improvement initiatives. Registration or licensing may be required."
+221113,Taxation Accountant,"Analyses, reports and provides advice on taxation issues to organisations or individuals, prepares taxation returns and reports, and handles disputes with taxation authorities. Registration or licensing may be required."
+221212,Corporate Treasurer,"Manages corporate funding, liquidity and financial risk associated with the profitable development and operation of an organisation. May be involved in acquisitions, disposals and joint ventures. Registration or licensing may be required."
+221213,External Auditor,"Designs and operates information and reporting systems, procedures and controls to meet external financial reporting requirements. Registration or licensing is required."
+221214,Internal Auditor,"Examines, verifies, evaluates and reports on financial, operational and managerial processes, systems and outcomes to ensure financial and operational integrity and compliance, and assists in business process reviews, risk assessments, developing deliverables and reporting progress against outcomes. Registration or licensing may be required."
+222111,Commodities Trader,"Operates as an independent agent to bring together buyers and sellers of commodities, negotiates private sales and arranges sales through established market places."
+222311,Financial Investment Adviser,"Develops and implements financial plans for individuals or organisations, and advises on investment strategies and their taxation implications, securities, insurance, pension plans and real estate. Registration or licensing may be required."
+222312,Financial Investment Manager,"Invests and manages sums of money and assets on behalf of others over an agreed period of time, in order to generate income and profit. Registration or licensing may be required."
+223111,Human Resource Adviser,Provides staffing and personnel administration services in support of an organisation's human resource policies and programs.
+223112,Recruitment Consultant,"Interviews applicants to determine their job requirements and suitability for particular jobs, and assists employers to find suitable staff."
+223113,Workplace Relations Adviser,"Assists in resolving disputes by advising on workplace relations policies and problems, and representing industrial, commercial, union, employer or other parties in negotiations on rates of pay and conditions of employment."
+224111,Actuary,"Analyses mathematical, statistical, demographic, financial or economic data to predict and assess the long-term risk involved in financial decisions and planning. Registration or licensing is required."
+224112,Mathematician,"Develops and applies mathematical principles and techniques to solve problems in all areas of the sciences, engineering, technology, social sciences, business, industry and commerce."
+224113,Statistician,"Designs and applies statistical principles and techniques for collecting, organising and interpreting quantifiable data, and uses statistical methodologies to produce statistical reports and analyses for government, commercial and other purposes."
+224211,Archivist,"Analyses and documents records, and plans and organises systems and procedures for the safekeeping of records and historically valuable documents."
+224212,Gallery or Museum Curator,Plans and organises a gallery or museum collection by drafting collection policies and arranging acquisitions of pieces.
+224213,Health Information Manager,"Plans, develops, implements and manages health information services, such as patient information systems, and clinical and administrative data, to meet the medical, legal, ethical and administrative requirements of health care delivery."
+224214,Records Manager,"Designs, implements and administers record systems and related information services, to support efficient access, movement, updating, storage, retention and disposal of files and other organisational records."
+224411,Intelligence Officer,"Collects and analyses information and data to produce intelligence for an organisation to support planning, operations and human resource functions."
+224412,Policy Analyst,"Develops and analyses policies guiding the design, implementation and modification of government or commercial operations and programs."
+224512,Valuer,"Assesses the value of land, property, commercial equipment, merchandise, personal effects, household goods and objects of art. Registration or licensing may be required."
+224711,Management Consultant,Assists organisations to achieve greater efficiency and solve organisational problems.
+224712,Organisation and Methods Analyst,"Assists organisations to achieve greater efficiency and solve organisational problems, and study organisational structures, methods, systems and procedures. "
+224912,Liaison Officer,"Establishes and facilitates communication between different community groups, organisations and governments."
+225112,Market Research Analyst,"Determines the market for new goods and services, develops advertising strategies, and evaluates the best business sites for commercial organisations."
+225113,Marketing Specialist,"Identifies market opportunities and advises on the development, coordination and implementation of plans for pricing and promoting an organisation's goods and services."
+231111,Aeroplane Pilot,"Flies aeroplanes to transport passengers, mail and freight, or provide agricultural, aerial surveillance or other aviation services. Registration or licensing is required."
+231112,Air Traffic Controller,Ensures the safe and efficient movement of aircraft in controlled airspace and aerodromes by directing aircraft movements. Registration or licensing is required.
+231213,Ship's Master,Controls and manages the operations of a ship or boat. Registration or licensing is required.
+231214,Ship's Officer,Navigates and controls the safe operation of a ship and supervises and coordinates the activities of deck crew. Registration or licensing is required.
+232111,Architect,"Plans and designs buildings, provides concepts, plans, specifications and detailed drawings, negotiates with builders and advises on the procurement of buildings. Registration or licensing is required."
+232112,Landscape Architect,"Plans and designs land areas for projects such as open space networks, parks, schools, institutions, roads, external areas for all building types, land subdivisions, and commercial, industrial and residential sites."
+232311,Fashion Designer,"Plans, designs and develops clothing, accessories, footwear or other items of personal apparel considering the form and construction of clothing, historical styles and contexts, contemporary and cultural trends, colour, fabric, and decoration, and the techniques and processes available for manufacture."
+232312,Industrial Designer,"Plans, designs, develops and documents industrial, commercial or consumer products for manufacture with particular emphasis on ergonomic factors, marketing considerations and manufacturability, and prepares designs and specifications of products for mass or batch production."
+232411,Graphic Designer,"Plans, designs, develops and prepares information for publication and reproduction using text, symbols, pictures, colours and layout to achieve commercial and communication needs with particular emphasis on tailoring the message for the intended audience."
+232412,Illustrator,"Plans, designs, develops, and prepares pictures and diagrams to communicate messages, clarify meaning, assist in presentations and illustrate stories, using traditional and digital media such as drawing, painting, drafting, collage, models, photography, and image capture and manipulation software."
+232413,Multimedia Designer,"Plans, designs and develops the production of digitally delivered information, promotional content, instructional material and entertainment through online and recorded digital media using static and animated information, text, pictures, video and sound to produce information and entertainment."
+232414,Web Designer,"Plans, designs, develops and prepares information for Internet publication with particular emphasis on the user interface, ease of navigation and location of information using text, pictures, animation, sound, colours, layout and data sources to deliver information tailored to an intended audience and purpose."
+233111,Chemical Engineer,"Designs and prepares specifications for chemical process systems and the construction and operation of commercial-scale chemical plants, and supervises industrial processing and fabrication of products undergoing physical and chemical changes. Registration or licensing may be required."
+233112,Materials Engineer,"Investigates the properties of metals, ceramics, polymers and other materials and assesses and develops their engineering and commercial applications. Registration or licensing may be required."
+233211,Civil Engineer,"Plans, designs, organises and oversees the construction and operation of dams, bridges, pipelines, gas and water supply schemes, sewerage systems, airports and other civil engineering projects. Registration or licensing may be required."
+233212,Geotechnical Engineer,"Plans, directs and conducts survey work to analyse the likely behaviour of soil and rock when placed under pressure by proposed structures, and designs above and below ground foundations. Registration or licensing may be required."
+233213,Quantity Surveyor,"Estimates and monitors construction costs from the project feasibility stage, through tender preparation, to the construction period and beyond. Registration or licensing is required."
+233214,Structural Engineer,"Analyses the properties of all types of structures, tests the behaviour and durability of materials used in their construction, and designs and supervises the construction of all types of structures. Registration or licensing may be required."
+233215,Transport Engineer,Plans and develops transport systems to improve infrastructure efficiency and the cost effectiveness of moving people and freight. Registration or licensing may be required.
+233511,Industrial Engineer,"Investigates and reviews the use of personnel, facilities, equipment and materials, current operational processes and established practices, to recommend improvement in the efficiency of operations in a variety of commercial, industrial and production environments. Registration or licensing may be required."
+233512,Mechanical Engineer,"Plans, designs, organises and oversees the assembly, erection, operation and maintenance of mechanical and process plant and installations. Registration or licensing may be required."
+233513,Production or Plant Engineer,"Plans and coordinates the design, construction, modification, continued performance and maintenance of equipment and machines in industrial plants, and the management and planning of manufacturing activities. Registration or licensing may be required."
+233611,Mining Engineer ,Plans and directs the engineering aspects of locating and extracting minerals from the earth. Registration or licensing may be required.
+233612,Petroleum Engineer,Plans and directs the engineering aspects of locating and extracting petroleum or natural gas from the earth. Registration or licensing may be required.
+233911,Aeronautical Engineer,"Performs and supervises engineering work concerned with the design, development, manufacture, maintenance and modification of aircraft for flight. Registration or licensing may be required."
+233913,Biomedical Engineer,"Applies knowledge and methodology of physics, engineering, mathematics, computing, physical chemistry and materials science to problems in biology and the treatment and prevention of human disease. Registration or licensing may be required."
+233914,Engineering Technologist,Analyses and modifies new and existing engineering technologies and applies them in the testing and implementation of engineering projects. Registration or licensing may be required.
+233915,Environmental Engineer,"Assesses the impact on air, water, soil and noise levels in the vicinity of engineering projects, plans and designs equipment and processes for the treatment and safe disposal of waste material, and assesses what may cause problems for the environment in the long-term. Registration or licensing is required."
+233916,Naval Architect,Designs and oversees the construction and repair of marine craft and floating structures. Registration or licensing may be required.
+234211,Chemist,"Studies the chemical and physical properties of substances, and develops and monitors chemical processes and production."
+234212,Food Technologist,"Develops new and improves existing food products, and sets standards for producing, packaging and marketing food."
+234213,Wine Maker,"Plans, supervises and coordinates the production of wine or spirits from selected varieties of grapes."
+234311,Conservation Officer,"Develops and implements programs and regulations for the protection of fish, wildlife and other natural resources."
+234312,Environmental Consultant,"Analyses and advises on policies guiding the design, implementation and modification of government or commercial environmental operations and programs."
+234313,Environmental Research Scientist,Studies and develops policies and plans for the control of factors which may produce pollution or cause degradation of the environment.
+234314,Park Ranger,"Assists in controlling a State or national park, scenic area, historic site, nature reserve, recreation area or conservation reserve in accordance with authorised policies and priorities."
+234511,Life Scientist  ,"Studies the origin, anatomy, physiology, reproduction and behaviour of living organisms and the ways in which they interact with the environment in which they live."
+234513,Biochemist,Studies the biochemistry and molecular structure of living organisms.
+234514,Biotechnologist,"Studies the anatomy, physiology and characteristics of living organisms and isolated biological molecules, and develops new materials for applying to a range of purposes."
+234515,Botanist,"Studies the anatomy, physiology, biochemistry and ecology of plants."
+234517,Microbiologist,"Studies microscopic forms of life such as bacteria, viruses and protozoa."
+234518,Zoologist,"Studies the anatomy, physiology, characteristics, ecology, behaviour and environments of animals."
+234911,Conservator,"Plans and organises the conservation of materials and objects in libraries, archives, museums and art galleries."
+234912,Metallurgist,"Researches, develops, controls and provides advice on processes used in extracting metals from their ores, and processes used for casting, alloying, heat treating or welding refined metals, alloys and other materials to produce commercial metal products or develop new alloys and processes. Registration or licensing may be required."
+234913,Meteorologist,"Studies the physics and dynamics of the atmosphere to increase understanding of weather and climate, and to forecast changes in the weather and long-term climatic trends."
+234914,Physicist,"Studies matter, space, time, energy, forces and fields and the interrelationship between these physical phenomena to further understanding of the laws governing the behaviour of the universe, and seeks to apply these laws to solve practical problems and discover new information about the earth and the universe."
+242111,University Lecturer,Lectures students and conducts tutorials in one or more subjects within a prescribed course of study at a university and conducts research in a particular field of knowledge. Registration or licensing may be required.
+242112,University Tutor,Conducts tutorials in one or more subjects within a prescribed course of study at a university. Registration or licensing may be required.
+249212,Dance Teacher ,"Teaches students in the practice, theory and performance of dance."
+249214,Music Teacher ,"Teaches students in the practice, theory and performance of music."
+251211,Medical Diagnostic Radiographer,Operates X-ray and other medical imaging equipment to produce images for medical diagnostic purposes in conjunction with Diagnostic and Interventional Radiologists or other Medical Practitioners. Registration or licensing is required.
+251212,Medical Radiation Therapist,Operates high energy X-ray and other radiation and electron generating and monitoring equipment to administer radiation treatment for medical purposes in conjunction with Radiation Oncologists or other specialist Medical Practitioners. Registration or licensing is required.
+251213,Nuclear Medicine Technologist,"Performs or assists in performing diagnostic examinations using radionuclides and radiopharmaceuticals, and administers radionuclides and radiopharmaceuticals for therapeutic purposes under the direction of specialist Medical Practitioners. Registration or licensing is required."
+251214,Sonographer,"Operates ultrasound equipment to acquire, interpret and selectively record anatomical images, physical data and real-time physiological information for medical diagnostic purposes in conjunction with Medical Practitioners."
+251311,Environmental Health Officer,"Develops, enforces and evaluates environmental health policies, programs and strategies to improve health outcomes, and oversees the implementation and monitoring of environmental health legislation. Registration or licensing may be required."
+251312,Occupational Health and Safety Adviser,"Develops, implements and evaluates risk management policies and programs, trains employees in occupational health and safety procedures, monitors and audits the workplace, and records and investigates incidents to ensure safe and healthy working conditions."
+251411,Optometrist,"Performs eye examinations and vision tests to determine the presence of visual, ocular and other abnormalities, ocular diseases and systemic diseases with ocular manifestations, and prescribes lenses, other optical aids, therapy and medication to correct and manage vision problems and eye diseases. Registration or licensing is required."
+251412,Orthoptist,Diagnoses and manages eye movement disorders and associated sensory deficiencies. Registration or licensing may be required.
+251511,Hospital Pharmacist,"Prepares and dispenses pharmaceuticals, drugs and medicines in a hospital pharmacy. Registration or licensing is required."
+251513,Retail Pharmacist,"Dispenses prescribed pharmaceuticals to the public, educates customers on health promotion, disease prevention and the proper use of medicines, and sells non-prescription medicines and related goods in a community pharmacy. Registration or licensing is required."
+251911,Health Promotion Officer,"Assists health and community groups to improve the health of individuals and the community by raising awareness of healthy lifestyles, disease and disability, and other health-related issues."
+251912,Orthotist or Prosthetist,"Designs, builds, fits and repairs splints, braces, callipers, artificial limbs and related appliances to restore function or compensate for muscular and skeletal disabilities. Registration or licensing may be required."
+252211,Acupuncturist,Treats disorders and illnesses by stimulating the body's defence mechanisms through inserting fine needles into the skin. Registration or licensing may be required.
+252213,Naturopath,"Treats internal health problems, metabolic disorders and imbalances through treatment of the whole person using natural therapies. Registration or licensing may be required."
+252711,Audiologist,Provides diagnostic assessment and rehabilitative services related to human hearing defects. Registration or licensing is required.
+252712,Speech Pathologist,"Provides diagnostic assessment and management of disorders of communication and swallowing through direct intervention, education, consultancy, advocacy, or a combination of these approaches."
+253111,General Practitioner,"Diagnoses, treats and prevents human physical and mental disorders and injuries. Registration or licensing is required."
+253112,Resident Medical Officer,"Diagnoses, treats and prevents human physical and mental disorders and injuries under the supervision of medical specialists or senior general practitioners. Registration or licensing is required."
+253317,Intensive Care Specialist,"Investigates, diagnoses and treats patients in need of intensive and critical care. Registration or licensing is required."
+253318,Neurologist,"Investigates, diagnoses and treats diseases and injuries of the human brain, spinal cord, nervous system and muscle tissue. Registration or licensing is required."
+253321,Paediatrician,"Investigates, diagnoses and treats internal diseases and disorders in children from birth up to, and including, adolescence. Registration or licensing is required."
+253324,Thoracic Medicine Specialist,"Investigates, diagnoses and treats diseases and disorders of the human respiratory system. Registration or licensing is required."
+253911,Dermatologist,"Provides diagnostic, treatment and preventative medical services related to disorders of the human skin. Registration or licensing is required."
+253912,Emergency Medicine Specialist,"Provides diagnostic medical services, and manages patients with acute and urgent illness and injury. Registration or licensing is required."
+253913,Obstetrician and Gynaecologist,"Provides diagnostic, treatment and preventative medical and surgical services related to the care of women, foetuses and children during pregnancy and childbirth, and to disorders of the female genital, urinary, rectal and reproductive organs. Registration or licensing is required."
+253914,Ophthalmologist,"Provides diagnostic, treatment and preventative medical services related to diseases, injuries and deficiencies of the human eye and associated structures. Registration or licensing is required."
+253915,Pathologist,"Identifies the cause and processes of disease and illness by examining changes in body tissue and in blood and other body fluids, and conducts tests on samples of tissues, blood and body secretions. Registration or licensing is required."
+253917,Diagnostic and Interventional Radiologist,"Provides diagnostic and treatment medical services, and monitors patients with various diseases utilising imaging techniques such as general radiography, angiography, fluoroscopy, mammography, ultrasound, computed tomography, magnetic resonance imaging, nuclear medicine and bone densitometry. Registration or licensing is required."
+254211,Nurse Educator,"Designs, plans, implements and evaluates the delivery of nursing education and staff development programs, and manages educational resources."
+254212,Nurse Researcher,"Designs, conducts and evaluates nursing and interdisciplinary research projects, and promotes the implementation of research findings into clinical nursing practice."
+254411,Nurse Practitioner,"Provides advanced and extended nursing care to patients, such as ordering diagnostic tests, undertaking diagnosis and health assessments, prescribing patient care management, medicines and therapies, and referring to specialist Medical Practitioners and other Health Professionals in a range of health, welfare and community settings. Registration or licensing is required."
+254415,Registered Nurse (Critical Care and Emergency),"Provides nursing care to critically ill patients and patients with unstable health following injury, surgery or during the acute phase of diseases, integrating new technological equipment into care in settings such as high dependency units, intensive care units, emergency departments or retrieval services. Registration or licensing is required."
+254422,Registered Nurse (Mental Health),"Provides nursing care to patients with mental health illness, disorder and dysfunction, and those experiencing emotional difficulties, distress and crisis in health, welfare and aged care facilities, correctional services and the community. Registration or licensing is required."
+254424,Registered Nurse (Surgical),Provides nursing care to patients with injuries and illness that require surgical intervention. Registration or licensing is required.
+261211,Multimedia Specialist,"Creates and manipulates computer animation, audio, video and graphic image files into multimedia programs to produce data and content for CD-ROMs, information kiosks, multimedia presentations, websites, mobile telephone resources, electronic gaming environments, e-commerce and e-security solutions, and entertainment and education products."
+261212,Web Developer,"Plans, produces and maintains websites using web programming languages, software applications, technologies and databases together with specifications of user needs, often in conjunction with other ICT Professionals such as Business Analysts, Web Designers and network and usability specialists."
+261311,Analyst Programmer,"Analyses user needs, produces requirements documentation and system plans, and encodes, tests, debugs, maintains and documents programs and applications."
+261312,Developer Programmer,"Interprets specifications, technical designs and flow charts, builds, maintains and modifies the code for software applications, constructs technical specifications from a business functional model, and tests and writes technical documentation."
+261313,Software Engineer,"Designs, develops, modifies, documents, tests, implements, installs and supports software applications and systems."
+261314,Software Tester,"Specifies, develops and writes test plans and test scripts, produces test cases, carries out regression testing, and uses automated test software applications to test the behaviour, functionality and integrity of  computer software, and documents the results of tests in defect reports and related documentation."
+262111,Database Administrator,"Plans, develops, configures, maintains and supports an organisation's database management system in accordance with user requirements ensuring optimal database integrity, security, backup, reliability and performance."
+262112,ICT Security Specialist,"Establishes, manages and administers an organisation's ICT security policy and procedures to ensure preventive and recovery strategies are in place, and minimise the risk of internal and external security threats."
+262113,Systems Administrator,"Plans, develops, installs, troubleshoots, maintains and supports an operating system and associated server hardware, software and databases ensuring optimum system integrity, security, backup and performance."
+263111,Computer Network and Systems Engineer,"Plans, develops, deploys, tests and optimises network and system services, taking responsibility for configuration management and overall operational readiness of network systems, especially environments with multiple operating systems and configurations, and provides troubleshooting and fault-finding services for network problems."
+263112,Network Administrator,"Installs and maintains hardware and software, documents diagnosis and resolution of faults, manages user passwords, security and inventory documentation, ensures the efficient performance of servers, printers and personal computers, and attends to other operational tasks. May also perform tasks such as help desk support and user training."
+263113,Network Analyst,"Researches and analyses network architecture, and recommends policies and strategies for designing, planning and coordinating an organisation's network such as the total system environment and architecture. May also perform operational tasks such as monitoring system performance, software and hardware upgrades, backups, support and network maintenance."
+263211,ICT Quality Assurance Engineer,"Creates, maintains and manages technical quality assurance processes and procedures to assess efficiency, validity, value and functional performance of computer systems and environments, and audits systems to ensure compliance with quality standards and regulations. May supervise the work of ICT quality assurance teams."
+263212,ICT Support Engineer,"Develops support procedures and strategies for systems, networks, operating systems and applications development, solves problems and provides technical expertise and direction in support of system infrastructure and process improvements, and diagnoses and resolves complex system problems."
+263213,ICT Systems Test Engineer,"Specifies, develops and writes test plans and test scripts, produces test cases, carries out regression testing, and uses automated test software applications to test the behaviour, functionality and integrity of systems, and documents the results of tests in defect reports and related documentation."
+272111,Careers Counsellor,Provides individuals and groups with information about career choices and assists individuals with self-development.
+272112,Drug and Alcohol Counsellor,"Provides support and treatment for people with drug and alcohol dependency problems, develops strategies which assist them to set goals and affect and maintain change, and provides community education. May work in a call centre."
+272113,Family and Marriage Counsellor,"Assists individuals, couples and families with marriage and relationship difficulties. May work in a call centre."
+272114,Rehabilitation Counsellor,"Assists physically, mentally and socially disadvantaged people to reintegrate into work and the community."
+272115,Student Counsellor,"Provides information and assistance to students, parents and teachers about a wide range of matters such as students' personal problems, learning difficulties and special requirements."
+272311,Clinical Psychologist,"Consults with individuals and groups, assesses psychological disorders and administers programs of treatment. Registration or licensing is required."
+272312,Educational Psychologist,"Investigates learning and teaching, and develops psychological techniques to foster the development and skills of individuals and groups in educational settings. Registration or licensing is required."
+272313,Organisational Psychologist,"Applies psychological principles and techniques to study occupational behaviour, working conditions and organisational structure, and solve problems of work performance and organisational design. Registration or licensing is required."
+272411,Historian,Researches the history of human activity and prepares accounts of findings.
+272412,Interpreter,"Transfers a spoken or signed language into another spoken or signed language, usually within a limited time frame in the presence of the participants requiring the translation."
+272413,Translator,"Transfers a source text from one language into another, usually within an extended time frame to allow for corrections and modifications and without the presence of the participants requiring the translation."
+272612,Recreation Officer,"Plans, organises and coordinates recreation facilities and programs through organisations such as local governments, schools, church bodies and youth organisations."
+272613,Welfare Worker,"Assists individuals, families and groups with social, emotional or financial difficulties to improve quality of life, by educating and supporting them and working towards change in their social environment."
+311211,Anaesthetic Technician,"Prepares and maintains anaesthetic equipment for operating theatres or clinics, and assists Anaesthetists during anaesthetic procedures."
+311212,Cardiac Technician,"Conducts tests on patients to record heart activity using specialised equipment, recording devices and laboratory instruments in support of Cardiologists and other Medical Practitioners engaged in diagnosing, monitoring and treating heart disease."
+311213,Medical Laboratory Technician,Performs routine medical laboratory tests and operates diagnostic laboratory equipment under the supervision of Medical Laboratory Scientists and Pathologists. Registration or licensing may be required.
+311214,Operating Theatre Technician,"Prepares and maintains an operating theatre and its equipment, assists the surgical team during operations and provides support to patients in the recovery room."
+311215,Pharmacy Technician,"Fills and labels patients' prescriptions under the supervision of a Pharmacist. May record details of, place orders for, take stock of, and store medications and medical supplies and deliver them to patients."
+311216,Pathology Collector,"Extracts, collects, labels and preserves blood and other specimens from patients for laboratory analysis."
+311411,Chemistry Technician,"Performs laboratory tests on organic and inorganic chemicals, analyses test data and carries out technical functions in support of Chemists or Chemical Engineers in a wide variety of areas such as fuels, agricultural products, food, pharmaceuticals, paints, metals, plastics, textiles, detergents, paper, fertilisers and cosmetics."
+311412,Earth Science Technician,"Collects and tests earth and water samples, records observations and analyses data in support of Geologists or Geophysicists."
+311413,Life Science Technician,Identifies and collects living organisms and conducts field and laboratory studies in support of Life Scientists or Environmental Scientists.
+312111,Architectural Draftsperson,"Completes Architects' concepts by preparing drawings and plans, and liaising with builders and contractors."
+312112,Building Associate,"Supervises construction sites, and organises and coordinates the material and human resources required. Registration or licensing may be required."
+312113,Building Inspector,Inspects buildings to ensure compliance with laws and regulations and advises on building requirements. Registration or licensing may be required.
+312114,Construction Estimator,Prepares and delivers estimates and cost plans for construction projects up to the tender settlement stage.
+312116,Surveying or Spatial Science Technician,"Collects, records and evaluates spatial information and prepares databases, maps, charts and plans in support of Surveyors, Cartographers or Other Spatial Scientists. Registration or licensing may be required."
+312211,Civil Engineering Draftsperson,Prepares detailed drawings and plans for civil engineering work in support of Civil Engineering Professionals and Engineering Technologists. Registration or licensing may be required.
+312212,Civil Engineering Technician,"Conducts tests of construction materials, prepares sketches and tabulations, and assists in estimating costs in support of Civil Engineering Professionals and Engineering Technologists. Registration or licensing may be required."
+312311,Electrical Engineering Draftsperson,Prepares detailed drawings and plans of electrical installations and circuitry in support of Electrical Engineers and Engineering Technologists. Registration or licensing may be required.
+312312,Electrical Engineering Technician,"Conducts tests of electrical systems, prepares charts and tabulations, and assists in estimating costs in support of Electrical Engineers and Engineering Technologists. Registration or licensing may be required."
+312511,Mechanical Engineering Draftsperson,Prepares detailed drawings and plans of mechanical engineering work in support of Mechanical Engineers and Engineering Technologists.
+312512,Mechanical Engineering Technician,"Conducts tests of mechanical systems, collects and analyses data, and assembles and installs mechanical assemblies in support of Mechanical Engineers and Engineering Technologists."
+313111,Hardware Technician,"Supports and maintains computer systems and peripherals by installing, configuring, testing, troubleshooting, and repairing hardware."
+313112,ICT Customer Support Officer,"Provides support, education and guidance in the deployment and maintenance of computer infrastructure and the diagnosis and resolution of technical problems and issues. May work in a call centre."
+313113,Web Administrator,"Designs, builds and maintains websites, and provides web technology solutions and services."
+321211,Motor Mechanic  ,"Maintains, tests and repairs petrol engines and the mechanical parts of lightweight motor vehicles such as transmissions, suspension, steering and brakes. Registration or licensing may be required."
+321212,Diesel Motor Mechanic,"Maintains, tests and repairs diesel motors and the mechanical parts of trucks, buses and other heavy vehicles such as transmissions, suspension, steering and brakes. Registration or licensing may be required."
+321213,Motorcycle Mechanic,"Maintains, tests and repairs the mechanical parts of motorcycles. Registration or licensing may be required."
+321214,Small Engine Mechanic,"Maintains, tests and repairs engines of chainsaws, lawn mowers, garden tractors and other equipment with small engines. Registration or licensing may be required."
+322311,Metal Fabricator,Marks off and fabricates structural steel and other metal stock to make or repair metal products and structures such as boilers and pressure vessels.
+322313,Welder,Fabricates and repairs metal products using various welding techniques.
+323111,Aircraft Maintenance Engineer (Avionics),"Inspects, tests, aligns, repairs and installs aircraft electrical and avionic system components. Registration or licensing may be required."
+323112,Aircraft Maintenance Engineer (Mechanical),"Inspects, tests, repairs and installs aircraft hydromechanical and flight system components and aircraft engines, subassemblies and components. Registration or licensing may be required."
+323211,Fitter  ,Fits and assembles metal parts and subassemblies to fabricate production machines and other equipment.
+323214,Metal Machinist ,"Sets up and operates machine tools to shape and form metal stock and castings to fine tolerances, using detailed drawings and specifications."
+323313,Locksmith,Installs and maintains locks and related security devices and systems. Registration or licensing is required.
+323314,Precision Instrument Maker and Repairer,"Assembles, calibrates, installs and overhauls mechanical precision instruments and equipment."
+323316,Watch and Clock Maker and Repairer,"Makes, repairs, cleans and adjusts watches and clocks."
+323411,Engineering Patternmaker,"Constructs full-size engineering models usually made out of timber, which are used in manufacturing to produce metal castings, copy models, vacuum form tooling and tooling for the automotive, aircraft or fibreglass industries."
+323412,Toolmaker,"Makes and repairs tools, dies, jigs, fixtures and other precision parts and equipment to fine tolerances for machine tools and other production machinery."
+331111,Bricklayer,"Lays bricks, pre-cut stone and other types of building blocks in mortar to construct and repair walls, partitions, arches and other structures. Registration or licensing may be required."
+331112,Stonemason,Cuts and shapes hard and soft stone blocks and masonry slabs to construct and renovate stone structures and monumental masonry. Registration or licensing may be required.
+331212,Carpenter,"Constructs, erects, installs, renovates and repairs structures and fixtures of wood, plywood, wallboard and other materials. Registration or licensing may be required."
+331213,Joiner,"Cuts, shapes and fits timber parts in workshops to form structures and fittings, ready for installation. Registration or licensing may be required."
+333211,Fibrous Plasterer,"Applies and fixes plasterboard partitions, suspended ceilings, fire rating systems, acoustic tiles, and composite wall linings to buildings. Registration or licensing may be required."
+333212,Solid Plasterer,"Applies decorative and protective coverings of plaster, cement and similar materials to the interiors and exteriors of structures. Registration or licensing may be required."
+334111,Plumber  ,"Installs and repairs water, drainage, gas and sewerage pipes and systems. Registration or licensing is required."
+334113,Drainer,"Installs, maintains and designs below-ground drainage systems and associated sewerage or effluent disposal systems. Registration or licensing is required."
+334114,Gasfitter,"Installs, maintains and repairs gas mains, piping systems downstream of the billing meter, and appliances and ancillary equipment associated with the use of fuel gases, including liquefied petroleum gas systems. Registration or licensing is required."
+334115,Roof Plumber,"Installs, maintains and repairs flashings, metallic roof and wall claddings and rainwater products such as gutters and downpipes. Registration or licensing is required."
+341113,Lift Mechanic,"Designs, installs, maintains, services and repairs electric and hydraulic passenger and freight lifts, escalators, moving walkways and other lift equipment. Registration or licensing is required."
+342311,Business Machine Mechanic,"Installs, maintains and repairs electronic business equipment such as multi-function devices, photocopiers, scanners, fax machines and cash registers."
+342312,Communications Operator,Transmits and receives radio messages by use of  voice and radio teletype.
+342313,Electronic Equipment Trades Worker,"Installs, maintains and repairs electronic equipment and systems such as audio and visual reproduction equipment, home entertainment systems, computers and electronic security systems."
+342314,Electronic Instrument Trades Worker  ,"Installs, modifies, maintains and repairs electronic instruments and control systems. Registration or licensing may be required."
+342413,Telecommunications Linesworker,"Installs, maintains and repairs external telecommunication equipment such as aerial lines, conduits and underground cables, radio and mobile phone antennae, and limited items of terminal equipment."
+361113,Pet Groomer,"Washes, dries, brushes, combs, cuts and styles pets' coats, clips their nails and cleans their ears."
+362212,Arborist,"Maintains and cares for trees and shrubs by lopping limbs and shaping branches, treating trees with fertilisers and insecticides, removing dead or decaying trees, and advising on general tree care."
+392111,Print Finisher,"Binds books and other publications, and finishes printed products by hand or machine."
+392112,Screen Printer,"Prepares stencils, and sets up and operates power-driven or hand-operated screen print equipment."
+393212,Clothing Patternmaker,"Draws sets of master patterns following sketches, sample articles and design specifications, and cuts out patterns for garments."
+393213,Dressmaker or Tailor,"Makes, alters and repairs women's and men's tailored garments, formal wear, couturier clothing, and special occasion wear such as suits, dresses, coats, evening wear and bridal wear."
+394211,Furniture Finisher,"Applies finishes, such as stain, lacquer, paint, oil and varnish, to furniture, and polishes and waxes finished furniture surfaces."
+394213,Wood Machinist,"Cuts, planes, turns, shapes and sands wood stock to specifications."
+399212,Gas or Petroleum Operator,"Operates equipment to pump oil and gas from wellheads, and refine and process petroleum products."
+399213,Power Generation Plant Operator,"Operates boilers, turbogenerators and associated plant to generate electrical power. Registration or licensing is required."
+399311,Gallery or Museum Technician,"Prepares artworks, specimens and artefacts for collections, and arranges and constructs gallery or museum exhibits."
+399312,Library Technician,Assists Librarians and other information managers in organising and operating systems for handling recorded material and files.
+399511,Broadcast Transmitter Operator,Operates consoles to control radio or television broadcast transmitters.
+399512,Camera Operator ,"Sets up and operates cameras to photograph scenes for film, television or video productions."
+399514,Make Up Artist,"Designs and applies make up to actors, presenters and other performing artists."
+399515,Musical Instrument Maker or Repairer,"Builds, repairs and restores musical instruments, and modifies and tunes them to owners' specifications."
+399516,Sound Technician,"Operates audio equipment to record, enhance, mix and amplify sound in support of television, radio, film or video productions, or stage performances."
+399911,Diver,"Swims underwater to undertake tasks such as seafood gathering, research, salvage and construction. Registration or licensing may be required."
+399913,Optical Dispenser,"Interprets optical prescriptions, and fits and services optical appliances such as spectacle frames and lenses. Registration or licensing may be required."
+411211,Dental Hygienist,Carries out preventative dental procedures under the direction of a Dentist. Registration or licensing is required.
+411213,Dental Technician,Constructs and repairs dentures and other dental appliances. Registration or licensing may be required.
+411214,Dental Therapist,"Examines and treats diseases of the teeth in preschool, primary and secondary school children under the general supervision of a Dentist. Registration or licensing is required."
+411411,Enrolled Nurse,"Provides nursing care to patients in a variety of health, aged care, welfare and community settings under the supervision of Registered Nurses. Registration or licensing is required."
+411412,Mothercraft Nurse,"Provides care to newborn infants, and provides advice and training on infant care to parents of newborn infants. Registration or licensing is required."
+411711,Community Worker,"Facilitates community development initiatives and collective solutions within a community to address issues, needs and problems associated with recreational, health, housing, employment and other welfare matters."
+411712,Disabilities Services Officer,"Works in a range of service units which provide education and community access to people with intellectual, physical, social and emotional disabilities."
+411713,Family Support Worker,Assists the work of Social Workers and Welfare Workers by providing services and support to families.
+411714,Parole or Probation Officer,Supervises offenders who have been placed on probation by court order or released conditionally from corrective service institutions.
+411715,Residential Care Officer,Provides care and supervision for children or disabled persons in group housing or institutional care.
+411716,Youth Worker,"Assists young people as individuals or groups to solve social, emotional and financial problems in an agency framework."
+421111,Child Care Worker,"Provides care and supervision for children in programs, such as long day care and occasional care, in childcare centres, hospitals and educational centres. Registration or licensing may be required."
+421113,Nanny,"Assists parents in the provision of ongoing care and supervision for babies and children, usually in the child's home."
+422112,Integration Aide,Assists children with developmental disabilities in mainstream schools.
+423311,Hospital Orderly,"Assists with the provision of care to patients in a hospital by ensuring wards are neat and tidy, lifting and turning patients and transporting them in wheelchairs or on movable beds, and providing direct care and support."
+423312,Nursing Support Worker,Provides limited patient care under the direction of nursing staff.
+423313,Personal Care Assistant,Provides routine personal care services to people in a range of health care facilities or in a person's home.
+423314,Therapy Aide,"Assists therapists in providing therapy programs and in the direct care of their patients in a variety of health, welfare and community settings. Registration or licensing may be required."
+431111,Bar Attendant,"Prepares, mixes and serves alcoholic and non-alcoholic drinks to patrons in a bar in a licensed establishment."
+431112,Barista,"Prepares and serves espresso coffee and other hot beverages to patrons in a cafe, coffee shop, restaurant or dining establishment."
+431912,Doorperson or Luggage Porter,"Assists guests in an accommodation establishment or passengers in a transport terminal by attending to and carrying luggage, welcoming and escorting guests, and attending to their general needs on arrival and departure."
+441211,Emergency Service Worker,Attends the scene of emergencies to minimise risk to community safety and security.
+441212,Fire Fighter,"Responds to fire alarms and emergency calls, controls and extinguishes fires, and protects life and property. Registration or licensing is required."
+441311,Detective,"Investigates serious crimes, such as terrorism, homicide, armed robbery, vice and arson, and gathers evidence to arrest and prosecute suspected offenders."
+441312,Police Officer,"Maintains public order, and enforces laws by investigating crimes, patrolling public areas and arresting suspected offenders."
+442214,Private Investigator,Conducts investigations for clients and prepares evidence for court proceedings. Registration or licensing is required.
+442215,Retail Loss Prevention Officer,"Detects and investigates shoplifting, fraud and other unlawful acts of employees or customers of a retail establishment. Registration or licensing may be required."
+442216,Security Consultant,"Advises clients on security requirements, and recommends and designs security specifications. Registration or licensing may be required."
+442217,Security Officer,"Patrols and guards industrial and commercial property, railway yards, stations and other facilities. Registration or licensing may be required."
+451612,Travel Consultant,"Plans travel, accommodation and associated arrangements for clients and makes travel bookings. May work in a call centre."
+452322,Sports Umpire,"Officiates at sporting events, such as netball, hockey, football, basketball, cricket, boxing and wrestling matches, by interpreting and enforcing match rules. Registration or licensing is required."
+452414,Lifeguard,"Looks after the safety of people at beaches or swimming pools through accident prevention and rescue, and educating the public on water safety. This occupation requires high levels of physical fitness, sporting ability and personal commitment as well as, or in place of, formal qualifications or experience. Registration or licensing is required."
+511111,Contract Administrator,"Prepares, interprets, maintains, reviews and negotiates variations to contracts on behalf of an organisation."
+511112,Program or Project Administrator,"Plans and undertakes administration of organisational programs, special projects and support services."
+512211,Health Practice Manager,Organises and controls the functions and resources of a health practice such as administrative systems and practice personnel.
+521211,Secretary  ,"Performs secretarial, clerical and other administrative tasks in support of Managers and Professionals."
+521212,Legal Secretary,"Performs secretarial, clerical and other administrative tasks in support of Legal Professionals applying knowledge of legal terminology, procedures and documents."
+532111,Data Entry Operator,"Operates a keyboard to input and transfer data into a computer for storage, processing and transmission."
+532113,Word Processing Operator,"Operates a computer to type, edit and generate a variety of documents and reports."
+541111,Call or Contact Centre Team Leader,"Oversees and determines work requirements, monitors telephone calls, coaches and allocates duties to Call or Contact Centre Operators."
+541112,Call or Contact Centre Operator,"Answers customer telephone, Internet and email inquiries about goods and services, and promotes the goods and services."
+542111,Receptionist  ,"Greets clients and visitors, and responds to personal, telephone, email and written inquiries and requests."
+542112,Admissions Clerk,Records and processes information required for the admission and discharge of hospital patients and responds to telephone inquiries.
+542113,Hotel or Motel Receptionist,"Greets and checks in guests, and looks after their needs on arrival and during their stay in a hotel or motel."
+542114,Medical Receptionist,"Greets patients and other clients in a health facility, such as a clinic, practice, centre or surgery, and responds to personal, telephone and written inquiries and requests."
+551111,Accounts Clerk,"Monitors creditor and debtor accounts, and undertakes related routine documentation. May work in a call centre."
+551112,Cost Clerk,"Calculates and investigates the cost of wages, materials, overheads and other operating expenses."
+552312,Insurance Consultant,Prepares and checks documentation associated with insurance. May work in a call centre.
+552314,Statistical Clerk,Compiles data and undertakes statistical and actuarial computations.
+561211,Courier,"Delivers goods, documents, messages, samples, x-rays and test results."
+561212,Postal Delivery Officer,"Delivers mail on foot, by bicycle or by motorised transport over allocated delivery rounds."
+561411,Mail Clerk,"Collects, sorts and despatches mail within an organisation."
+561912,Meter Reader,"Reads electric, gas or water meters, records usage, inspects meters and connections for defects and damage, and reports irregularities."
+561913,Parking Inspector,Patrols assigned areas and issues parking infringement notices to owners of vehicles that are illegally parked.
+591112,Production Clerk,"Records and coordinates the flow of work and materials between departments, examines orders for goods, and prepares production schedules."
+591113,Purchasing Officer,"Prepares purchase orders, monitors supply sources and negotiates contracts with suppliers."
+591115,Stock Clerk,"Monitors stock levels and maintains stock, order and inventory records."
+591116,Warehouse Administrator,Administers and coordinates storage and distribution operations within an organisation.
+591117,Order Clerk,Receives and processes incoming orders for goods and services from inside or outside an organisation.
+599511,Customs Officer,"Administers and enforces customs and related legislation, and assists with customs control of overseas passengers, crew, aircraft, ships, cargo, mail and bond stores."
+599512,Immigration Officer,"Examines and assesses the entry of people from other countries, administers visas and residency applications according to immigration legislation, rules and policies, and, where necessary, uses legal powers to detain and remove illegal entrants."
+599516,Taxation Inspector,"Inspects and assesses taxation returns to ensure compliance with government legislation, and investigates suspected breaches of taxation legislation."
+599518,Transport Operations Inspector,"Monitors scheduled train, tram and bus services and investigates accidents, complaints and service disruptions."
+599913,Proof Reader,"Reads draft copies and proofs, detects errors and marks corrections to grammar, typing and composition."
+599914,Radio Despatcher,"Provides radio and communications services for the coordination of operational units in transport, courier, military, emergency, security, rescue and road service organisations. Registration or licensing may be required."
+599915,Clinical Coder,"Assigns codes to narrative descriptions of patients' diseases, operations and procedures in accordance with recognised classification systems to allow for easy storage, retrieval and analysis of health data."
+599916,Facilities Administrator,"Provides assistance to ensure the day-to-day smooth operation of a building's infrastructure, through administrative support, including budgeting, procurement negotiation, contractor liaison and documentation, as well as coordination of staff and office equipment during relocation, and at times supervision and physical assistance with maintenance tasks."
+612112,Property Manager,Supervises the leasing of rental properties on behalf of owners. Registration or licensing may be required.
+612114,Real Estate Agent,"Coordinates the activities of real estate representatives in selling and leasing real estate, ensuring compliance with legislative requirements. Registration or licensing is required."
+612115,Real Estate Representative,"Arranges the conduct of real estate transactions such as sales and leasing, and assists buyers to find suitable properties, on behalf of an agency. Registration or licensing is required."
+621311,Motor Vehicle or Caravan Salesperson,"Sells new and used motor cars, motor cycles, trucks, boats, caravans and earthmoving equipment in a retail or wholesale establishment."
+621312,Motor Vehicle Parts Interpreter,Sells motor vehicle accessories and parts in a retail or wholesale establishment.
+621911,Materials Recycler,"Salvages materials from industrial, commercial and private establishments for resale."
+639111,Model,"Wears and displays clothing and accessories, and poses for photographs, paintings, sculptures and other types of art."
+639112,Sales Demonstrator,"Displays and demonstrates goods at commercial premises, exhibitions and private homes."
+639211,Retail Buyer,Selects and buys goods for resale in a retail establishment.
+711114,Stone Processing Machine Operator,"Operates machines to cut and finish stones for tiles, building blocks and facings."
+711912,Motion Picture Projectionist,Operates film projection and related sound reproduction equipment.
+711914,Sterilisation Technician,"Cleans, sterilises and packages surgical instruments and other hospital equipment, soft goods and linen in a sterilisation service facility."
+712211,Driller,"Assembles, positions and operates a drilling rig and related equipment to extract ore, liquids or gases from the earth. Registration or licensing may be required."
+712212,Miner,"Operates plant to excavate, load and transport coal, ore and rock in an underground or open-cut mine. Registration or licensing may be required."
+712213,Shot Firer,"Assembles, positions and detonates explosives at a mining or demolition site. Registration or licensing may be required."
+712911,Boiler or Engine Operator,"Operates and maintains stationary engines, boilers, refrigeration and airconditioning systems, and associated mechanical plant. Registration or licensing is required."
+712912,Bulk Materials Handling Plant Operator,"Operates plant to load, unload, move, store and stack bulk materials such as grain, sugar and mineral ore."
+712915,Concrete Pump Operator,"Operates plant to pump, cast and mould concrete. Registration or licensing is required."
+712917,Railway Signal Operator,"Controls the movement of trains, and assembles and disassembles trains within a marshalling yard."
+712921,Waste Water or Water Plant Operator,"Operates plant to store, distribute and treat water including purifying water for human consumption and removing wastes from sewage."
+712922,Weighbridge Operator,Operates weighing plant and issues measurement tickets which provide readings of vehicle and livestock weight.
+721111,Agricultural and Horticultural Mobile Plant Operator,"Operates agricultural and horticultural plant to clear and cultivate land, and sow and harvest crops. Registration or licensing may be required."
+721211,Earthmoving Plant Operator  ,"Operates a range of earthmoving plant to assist with building roads, rail, water supply, dams, treatment plants and agricultural earthworks. Registration or licensing is required."
+721212,Backhoe Operator,"Operates a backhoe and attachments to excavate, break, drill, level and compact earth, rock and other material. Registration or licensing is required."
+721213,Bulldozer Operator,"Operates a bulldozer using blades and other attachments to gouge out, level and move materials in construction, forestry, mining and other projects. Registration or licensing is required."
+721214,Excavator Operator,"Operates heavy excavation plant equipment to excavate, move and load earth, rock and rubble. Registration or licensing is required."
+721215,Grader Operator,Operates a grader to spread and level materials in construction projects. Registration or licensing is required.
+721216,Loader Operator,"Operates a motorised loader to move and load soil, rock and other material. Registration or licensing is required."
+721913,Paving Plant Operator,"Operates plant to spread and level hot bituminous paving materials and lay concrete on areas such as highways, roads and car parks. Registration or licensing is required."
+721915,Road Roller Operator,"Operates a power-driven roller to prepare surfaces for roads, runways and car parks. Registration or licensing is required."
+731311,Train Driver,Drives a train to transport passengers and freight on railways. Registration or licensing is required.
+821111,Builder's Labourer,Performs routine tasks in erecting and repairing structures and facilities on building and construction sites and in factories producing prefabricated building components.
+821411,Building Insulation Installer,"Installs and applies insulating material, such as foam, granules, foil, solar film, batts and blankets, to walls, floors, windows and ceilings of buildings to insulate against heat, cold, air, sound and moisture. Registration or licensing may be required."
+821412,Home Improvement Installer,"Installs functional and decorative home improvements such as awnings, curtains, blinds, security screens, garage doors, exterior cladding, shower screens and prefabricated windows and doors. Registration or licensing may be required."
+821711,Construction Rigger,"Assembles and installs rigging gear, such as cables, ropes, pulleys and winches, to lift, lower, move and position equipment, structural steel and other heavy objects. Registration or licensing may be required."
+821712,Scaffolder,"Erects and dismantles scaffolding to provide work platforms on building and industrial sites, and for temporary structures such as staging and seating. Registration or licensing may be required."
+821713,Steel Fixer,Positions and secures steel bars and steel mesh in concrete forms to reinforce concrete structures. Registration or licensing may be required.
+821714,Structural Steel Erector,Erects and dismantles structural steel frames of buildings and other structures. Registration or licensing may be required.
+821911,Crane Chaser,"Slings cranes and winches, and directs the movement of loads ensuring loads do not exceed lifting capacities."
+821912,Driller's Assistant,"Performs routine tasks in setting up, operating and dismantling drilling sites for extracting oil, gas, mineral ore or water."
+821913,Lagger,"Applies insulating materials, such as felt, fibreglass, polyurethane and cork, to pipes, steam generators, process vats and ducting, and secures insulation with wire, wire netting, staples, metal strapping and using welding torches."
+821914,Mining Support Worker,"Performs routine tasks in mining and mineral ore treating operations such as assembling, operating and dismantling mining equipment, taking ore, rock and dust samples, and mixing ore treating chemicals and catalysts."
+831211,Meat Boner and Slicer,"Trims and cuts meat from bones, sides and carcasses."
+831212,Slaughterer,"Stuns and kills livestock, and prepares carcasses for further processing by removing internal organs and hides."
+839311,Product Examiner,Examines products to ensure conformity to specifications and standards of presentation and quality.
+839312,Product Grader,Grades primary produce by evaluating individual items or batches against established standards and records results.
+839313,Product Tester,"Collects product samples, conducts tests to determine quality of produce and maintains records of results."
+839912,Chemical Plant Worker,"Performs routine tasks in a chemical processing plant such as delivering materials to processing areas, dumping ingredients into hoppers, operating machines to heat, cool and agitate chemical solutions, filling and fastening covers on containers, and attaching labels and information on products."
+839918,Recycling Worker,"Performs routine tasks in a recycling facility such as sorting, packing and storing plastics, glass, paper, metals and other recyclable materials which have been collected from household, commercial and industrial premises in preparation for use in creating new products."
+841311,Forestry Worker,"Assists with cultivating, maintaining and protecting forests. Registration or licensing may be required."
+841312,Logging Assistant,"Assists with logging, felling and sawing of trees in forests."
+841313,Tree Faller,"Fells trees in forests, and trims and saws them into logs. Registration or licensing may be required."
+841911,Hunter-Trapper,"Hunts, traps and shoots animals for food, pelts, research and for pest control. Registration or licensing may be required."
+841913,Pest Controller,"Applies pest management techniques to control invertebrate and insect pests inside and outside domestic, commercial and industrial premises. Registration or licensing is required."
+899211,Deck Hand,Performs maintenance and lookout tasks aboard a ship.
+899212,Fishing Hand,"Catches fish and other sea creatures using nets, pots, lines and traps in ocean and inland waters."
+899412,Autoglazier,Repairs and replaces windscreens and side and rear glass in motor vehicles.
+899415,Tyre Fitter,"Fits, repairs and replaces tyres on motor vehicles."
+899911,Bicycle Mechanic,"Repairs and adjusts bicycles, and assembles bicycle kits."
+899912,Car Park Attendant,"Operates and maintains a car parking facility by guarding cars in parking areas and collecting fees at car park entry or exit points. May drive and park cars, and operate boom gates."
+899913,Crossing Supervisor,"Assists children, disabled and other pedestrians to cross roads by stopping traffic and ensuring all pedestrians have crossed safely before allowing traffic to flow through the crossing."
+899914,Electrical or Telecommunications Trades Assistant,Assists Electrotechnology and Telecommunications Trades Workers to install and maintain electrical and telecommunications systems.
+899915,Leaflet or Newspaper Deliverer,Collects leaflets or newspapers from a collection point and delivers them to homes in a specified area.
+899918,Sign Erector,"Erects and installs signs, and cleans signs and their sites after installation."
+899921,Ticket Collector or Usher,"Collects tickets or admission passes and ushers patrons to their seats at an entertainment, sporting or recreational venue, prepares the venue before an event and locks up premises afterwards."
+899923,Road Traffic Controller,"Manually directs road traffic and pedestrian flows on, near, or adjacent to roads during road closures or part road closures due to construction, maintenance or roadside works; public events; or emergency responses using signs and devices to ensure the safety of workers, motorists and pedestrians."
+254412,Registered Nurse (Aged Care),"Provide nursing care to the elderly in community settings, residential aged care facilities, retirement villages and health care facilities. Registration or licensing is required."
+254413,Registered Nurse (Child and Family Health),"Provide nursing care to children and their families, with an emphasis on the prevention, early detection of, and early intervention in, physical, emotional and social problems affecting children and their families. Registration or licensing is required."
+254414,Registered Nurse (Community Health),"Provide nursing care, health counselling, screening and education to individuals, families and groups in the wider community with a focus on patient independence and health promotion. Registration or licensing is required."
+254416,Registered Nurse (Developmental Disability),"Provide nursing care to people with intellectual and development disabilities in a range of health, welfare and community settings. Registration or licensing is required."
+254417,Registered Nurse (Disability and Rehabilitation),"Provide nursing care to patients recovering from injury and illness, and assist and facilitate patients with disabilities to live more independently. Registration or licensing is required."
+254418,Registered Nurse (Medical),"Provide nursing care to patients with conditions such as infections, metabolic disorders and degenerative conditions, which require medical intervention in a range of health, aged care and community settings. Registration or licensing is required."
+254421,Registered Nurse (Medical Practice),"Provide clinical care to patients, undertake clinical organisation and practice administration, and facilitate communication within a general practice environment and between the practice and outside organisations and individuals. Registration or licensing is required."
+254423,Registered Nurse (Perioperative),"Provide nursing care to patients before, during and immediately after surgery, assess patients' condition, plan nursing care for surgical intervention, maintain a safe and comfortable environment, assist Surgeons and Anaesthetists during surgery, and monitor patients' recovery from anaesthetic, prior to return to, or discharge from, ward. Registration or licensing is required."
+254425,Registered Nurse (Paediatrics),"Provide nursing care to children of all ages, including neonates, across a range of health and community settings with an emphasis on assessing children’s acute and ongoing needs while taking into account physical, social, cultural and family circumstances. Registration or licensing is required."

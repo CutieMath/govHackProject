@@ -7,31 +7,35 @@
   <link rel="preconnect" href="https://fonts.googleapis.com">
   <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
   <link href="https://fonts.googleapis.com/css2?family=Noto+Sans+TC:wght@700&display=swap" rel="stylesheet">
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.0/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-KyZXEAg3QhqLMpG8r+8fhAXLRk2vvoC2f3B09zVXn8CA5QIVfZOJ3BCsw2P0p/We" crossorigin="anonymous">
 <body>
   <!-- Opening -->
   <section id="main-section">
-    <!-- <img src="images/logo.png"> -->
+    <img class="logo" src="<%=require('/images/logo.png')%>">
     <h1 class="title center-it">Matchy Matchy</h1>
+    <img class="finger center-image" src="<%=require('/images/tap.png')%>">
     <p class="center-it sub-title">Click to Start</p>
   </section>
 
   <!-- Competencies -->
   <section id="competency-section">
-    <h2>Choose your core competencies</h2>
-    <div id="competencies">
-    </div>
+      <h1 class="section-title">Rank your core 
+        <br>
+        <span class="high-light">Competencies</span></h1>
+      <div id="competencies" class="competency-box">
+      </div>
   </section>
 
   <!-- Past Jobs -->
   <section id="job-section">
-    <h2>Choose your past jobs</h2>
+    <h1 class="section-title"><span class="high-light">What</span> JOBS <span class="high-light">have you done?</span></h1>
     <div id="jobs">
     </div>
   </section>
 
   <!-- Possible projects -->
   <section id="project-section">
-    <h2>Projects</h2>
+    <h1 class="section-title"><span class="high-light">Project</span> Board</h1>
     <div id="projects">
     </div>
   </section>
