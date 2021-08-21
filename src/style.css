@@ -80,11 +80,12 @@ body {
 }
 
 .competency-box {
-  display: grid;
+  display: inline-flex;
+  flex-wrap: wrap;
 }
 
 .competency {
-  margin-top: 5px;
+  margin: 10px;
   padding: 1.3rem;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
@@ -94,6 +95,7 @@ body {
 
 .competency-title{
   font-weight: 700;
+  font-size: 1.5rem;
   color: #9dd9dd;
 }
 
