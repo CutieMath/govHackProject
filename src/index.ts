@@ -107,7 +107,7 @@ d3.csv(jobsFile).then((data : d3.DSVRowArray<string>): object => {
 
   let multiselect = d3.select("#jobs")
     .append("select")
-    .attr("multiple", true)
+    .attr("multiple", "true")
   multiselect.selectAll(".pastJobs")
     .data(jobs)
     .enter()
