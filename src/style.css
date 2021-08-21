@@ -17,11 +17,17 @@ body {
 }
 
 /* Opening section */
+#main-section {
+  width: 100%;
+  height: 100vh;
+}
+
 .center-it {
   text-align: center;
 }
 
 .title {
+  margin-top: 10%;
   color: #1F6A7D;
   font-size: 100px;
   margin-bottom: 8%;
@@ -48,13 +54,14 @@ body {
 
 /* Competencies Section */
 #competency-section {
-  margin-top: 15%;
+  width: 100%;
+  height: 100vh;
+  padding: 40vh;
   background-color: #104262;
   color: white;
   margin: 0;
+  padding: 5rem;
 }
 
-.letter-section {
-  margin: 15%;
-}
+
 
