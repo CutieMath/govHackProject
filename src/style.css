@@ -359,4 +359,5 @@ div.job-selection:hover{
   height: 250px;
   text-align: left;
   font-size: 1.2rem;
+  max-width: 20rem;
 }
