@@ -23,7 +23,7 @@ to run in dev enviroment
 
 ## Authors
 
-Author | Github Link
+Author | Profile Link
 -------|------------
 Yuxin  | https://github.com/CutieMath
 Isaac  | https://github.com/Jelly-Fish-Dev
