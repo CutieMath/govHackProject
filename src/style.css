@@ -2,6 +2,8 @@
 
 @import url(https://fonts.googleapis.com/css?family=Raleway);
 
+
+
 /* 
 *****************
 * Whole page
@@ -29,6 +31,28 @@ body {
 
 .high-light {
   color: #03989e;
+}
+
+/* scroll bar */
+/* width */
+::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+::-webkit-scrollbar-track {
+  background: transparent;
+}
+
+/* Handle */
+::-webkit-scrollbar-thumb {
+  background: #03989e;
+  border-radius: 20px;
+}
+
+/* Handle on hover */
+::-webkit-scrollbar-thumb:hover {
+  background: #555;
 }
 
 
@@ -105,7 +129,7 @@ body {
 
 .competency-title{
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: #9dd9dd;
 }
 
@@ -152,65 +176,25 @@ body {
 }
 
 
-/* search button */
-.search-box{
-  width: fit-content;
-  height: fit-content;
-  position: relative;
-  margin-left: 2%;
-}
+/* search box */
 .input-search{
-  height: 50px;
-  width: 50px;
-  border-style: none;
-  padding: 10px;
-  font-size: 18px;
-  letter-spacing: 2px;
-  outline: none;
-  border-radius: 25px;
-  transition: all .5s ease-in-out;
-  background-color: #03989e;
-  padding-right: 40px;
-  color:#1F6A7D;
-}
-.input-search::placeholder{
-  color:#1F6A7D;
-  font-size: 18px;
-  letter-spacing: 2px;
-  font-weight: 100;
-}
-.btn-search{
-  width: 50px;
-  height: 50px;
-  border-style: none;
-  font-size: 20px;
-  font-weight: bold;
+  text-align: center;
+  height: 51px;
+  width: 20%;
   outline: none;
   cursor: pointer;
-  border-radius: 50%;
-  position: absolute;
-  right: 0px;
-  color:#1F6A7D;
-  background-color:transparent;
-  pointer-events: painted;  
-}
-.btn-search:focus ~ .input-search{
-  width: 300px;
-  border-radius: 0px;
-  background-color: transparent;
-  border-bottom:1px solid rgba(255,255,255,.5);
-  transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
-}
-.input-search:focus{
-  width: 300px;
-  border-radius: 0px;
-  background-color: transparent;
-  border-bottom:1px solid rgba(255,255,255,.5);
-  transition: all 500ms cubic-bezier(0, 0.110, 0.35, 2);
+  border: 4px solid #1F6A7D;
+  border-radius: 0 10px 10px 0 ;
+  border-left: none;
+  background: none;
+  font-size: 20px;
+  border-left: 4px solid #1F6A7D;
 }
 
+
 .multiple-select-job{
-  height: 70vh;
+  background:transparent;
+  height: 60vh;
 }
 
 
@@ -224,13 +208,12 @@ select {
   margin-top: 3%;
   border: none;
   border-radius: 10px;
-	align-self: center;
+	align-self: left;
 	color:rgba(9,32,64,1);
 	width: 100%;
 	padding: 15px;
-	height: 70%;
 	cursor: pointer;
-  text-align-last: center;
+  text-align-last: left;
   font-size: x-large;
 }
 
@@ -242,9 +225,12 @@ div.selections{
 }
 
 div.job-selection{
-  border-radius: 20px;
+  margin-right: 10px;
+  margin-bottom: 10px;
+  border-radius: 10px;
   max-height: 50px;
-  background: rgba(11,88,112,1);
+  background: rgb(51,130,154);
+  background: linear-gradient(170deg, rgba(51,130,154,1) 0%, rgba(52,99,159,1) 49%, rgba(9,32,64,1) 100%);
   color: white;
   padding: 10px;
 }
@@ -252,6 +238,8 @@ div.job-selection{
 div.job-selection:hover{
   background: #03989e;
 }
+
+
 /* 
 ***************************
 * Possible projects section
@@ -262,7 +250,7 @@ div.job-selection:hover{
   background: linear-gradient(170deg, rgba(11,88,112,1) 0%, rgba(14,50,96,1) 49%, rgba(9,32,64,1) 100%);
   color: white;
   width: 100%;
-  height: 100vh;
+  height: 70%;
   margin: 0;
   padding: 5rem;
 }
@@ -271,21 +259,92 @@ div.job-selection:hover{
   margin-top: 4%;
   display: inline-flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .project {
+  position: relative;
   margin: 10px;
+  padding-top: 10%;
   padding: 1.3rem;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 10px;
+<<<<<<< HEAD
   width: 15%;
   text-align: center;
   font-weight: bold;
+=======
+  width: 18%;
+  height: 250px;
+  text-align: left;
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: white;
+}
+
+.project-multiplier{
+  position: absolute;
+  bottom: 0;
+  left: 2;
+  color: #9dd9dd;
+>>>>>>> 3c3bcf6c99644883acaa8ba0023d41bdd26f2f14
 }
 
 .project:hover {
   background: rgb(11,88,112);
   background: linear-gradient(170deg, rgba(11,88,112,1) 0%, rgba(14,50,96,1) 49%, rgba(9,32,64,1) 100%);
   cursor: pointer;
+}
+
+
+/* 
+*****************
+* Possible Report
+*****************
+*/
+#project-description-section {
+  background: rgb(255,255,255);
+  background: linear-gradient(170deg, rgba(255,255,255,1) 0%, rgba(222,235,254,1) 49%, rgba(255,255,255,1) 100%);
+  color: #1F6A7D;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 5rem;
+}
+
+.project-desc-header {
+  margin-top: 3%;
+  font-weight: 700;
+  width: 70%;
+}
+
+
+.project-desc-decsription{
+  width: 30%;
+}
+
+
+.project-desc-match{
+  justify-content: end;
+}
+
+
+.project-desc-tasks{
+  margin-top: 5%;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
+
+.project-task{
+  margin-right: 20px;
+  padding-top: 10%;
+  padding: 1.3rem;
+  box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  transition: 0.3s;
+  border-radius: 10px;
+  width: 20%;
+  height: 250px;
+  text-align: left;
+  font-size: 1.2rem;
 }
