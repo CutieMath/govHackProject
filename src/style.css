@@ -133,6 +133,7 @@ input{
   width: 30rem;
   min-width: 30rem;
   min-height: 5rem;
+  max-width: 30rem;
 }
 
 .competency-title{
