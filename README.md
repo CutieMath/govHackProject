@@ -30,3 +30,4 @@ Isaac  | https://github.com/Jelly-Fish-Dev
 Sam    | https://github.com/Hazelfire
 Alvin  | https://github.com/alvinzhaowei
 Hayden | https://github.com/ggesus-Dev
+Jordan | https://www.linkedin.com/in/jordan-minter-a06662214
