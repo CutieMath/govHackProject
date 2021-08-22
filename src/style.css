@@ -259,6 +259,7 @@ div.job-selection:hover{
   margin-top: 4%;
   display: inline-flex;
   flex-wrap: wrap;
+  justify-content: center;
 }
 
 .project {
