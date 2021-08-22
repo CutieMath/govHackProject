@@ -166,6 +166,8 @@ async function main(){
 
   multiselectContainer.append("input")
     .attr("class","filter")
+    .attr("class", "input-search")
+    .attr("placeholder", "Type to search...")
     .on("input", filterJobs)
 
   let multiselect = d3.select("#jobs")
