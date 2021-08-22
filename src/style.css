@@ -131,9 +131,9 @@ input{
   transition: 0.3s;
   border-radius: 10px;
   width: 30rem;
-  min-width: 30rem;
+  min-width: 20rem;
   min-height: 5rem;
-  max-width: 30rem;
+  max-width: 20rem;
 }
 
 .competency-title{
@@ -354,7 +354,7 @@ div.job-selection:hover{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 10px;
-  width: 20%;
+  min-width: 20rem;
   height: 250px;
   text-align: left;
   font-size: 1.2rem;
