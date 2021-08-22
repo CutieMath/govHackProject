@@ -234,7 +234,24 @@ select {
   font-size: x-large;
 }
 
+div.selections{
+  width: 100%;
+  text-align: center;
+  display: inline-flex;
+  flex-wrap: wrap;
+}
 
+div.job-selection{
+  border-radius: 20px;
+  max-height: 50px;
+  background: rgba(11,88,112,1);
+  color: white;
+  padding: 10px;
+}
+
+div.job-selection:hover{
+  background: #03989e;
+}
 /* 
 ***************************
 * Possible projects section
