@@ -263,6 +263,7 @@ div.job-selection:hover{
 }
 
 .project {
+  position: relative;
   margin: 10px;
   padding-top: 10%;
   padding: 1.3rem;
@@ -275,6 +276,13 @@ div.job-selection:hover{
   font-weight: 700;
   font-size: 1.2rem;
   color: white;
+}
+
+.project-multiplier{
+  position: absolute;
+  bottom: 0;
+  left: 2;
+  color: #9dd9dd;
 }
 
 .project:hover {
@@ -329,7 +337,7 @@ div.job-selection:hover{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 10px;
-  width: 18%;
+  width: 20%;
   height: 250px;
   text-align: left;
   font-size: 1.2rem;
