@@ -238,6 +238,8 @@ div.job-selection{
 div.job-selection:hover{
   background: #03989e;
 }
+
+
 /* 
 ***************************
 * Possible projects section
@@ -278,4 +280,20 @@ div.job-selection:hover{
   background: rgb(11,88,112);
   background: linear-gradient(170deg, rgba(11,88,112,1) 0%, rgba(14,50,96,1) 49%, rgba(9,32,64,1) 100%);
   cursor: pointer;
+}
+
+
+/* 
+*****************
+* Possible Report
+*****************
+*/
+#project-description-section {
+  background: rgb(255,255,255);
+  background: linear-gradient(170deg, rgba(255,255,255,1) 0%, rgba(222,235,254,1) 49%, rgba(255,255,255,1) 100%);
+  color: #1F6A7D;
+  width: 100%;
+  height: 100vh;
+  margin: 0;
+  padding: 5rem;
 }
