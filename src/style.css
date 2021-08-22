@@ -180,11 +180,11 @@ body {
 .input-search{
   text-align: center;
   height: 51px;
-  width: 20%;
+  width: 100%;
   outline: none;
   cursor: pointer;
   border: 4px solid #1F6A7D;
-  border-radius: 0 10px 10px 0 ;
+  border-radius: 5px 20px 20px 5px ;
   border-left: none;
   background: none;
   font-size: 20px;
