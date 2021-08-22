@@ -250,7 +250,7 @@ div.job-selection:hover{
   background: linear-gradient(170deg, rgba(11,88,112,1) 0%, rgba(14,50,96,1) 49%, rgba(9,32,64,1) 100%);
   color: white;
   width: 100%;
-  height: 100vh;
+  height: 65vh;
   margin: 0;
   padding: 5rem;
 }
@@ -269,7 +269,7 @@ div.job-selection:hover{
   transition: 0.3s;
   border-radius: 10px;
   width: 18%;
-  height: 400px;
+  height: 250px;
   text-align: left;
   font-weight: 700;
   font-size: 1.2rem;
