@@ -5,7 +5,8 @@ import jobsFile from './jobs.csv';
 import projectsFile from './projects.csv';
 import projectTasksFile from './projects-tasks.csv';
 //import competenciesJobFile from './competencies-jobs.csv';
-//import tasksFile from './tasks.csv';
+import tasksFile from './tasks.csv';
+import * as _ from 'lodash';
 
 async function main(){
   type ScoreDescription = {
@@ -108,6 +109,7 @@ async function main(){
   function removeJob(_ : MouseEvent, job : Job){
     selectedJobs = selectedJobs.filter(j => j.code != job.code);
     updateJobs()
+    updateProjects();
   }
 
   function addJob(_: InputEvent, job : Job){
@@ -121,7 +123,6 @@ async function main(){
     let jobSelection = jobSelections
       .selectAll(".job-selection")
       .data(selectedJobs);
-    console.log(selectedJobs);
     jobSelection.exit().remove();
     
     jobSelection.enter()
@@ -198,29 +199,64 @@ async function main(){
   } 
 
   //let competenciesJobData = await d3.csv(competenciesJobFile);
-  //let tasksData = await d3.csv(tasksFile);
-  /*type SpecialistTask = {
+  let tasksData = await d3.csv(tasksFile);
+  type SpecialistTask = {
     jobTitle: string,
-    taskName: sring,
+    taskName: string,
+    timePercentage : number,
+    jobCode : string,
+  };
 
-  };*/
+  let specialistTasks : SpecialistTask[] = tasksData.map( t => (
+    { jobTitle: t['ANZSCO_Title'],
+      taskName: t['Specialist_Task'],
+      timePercentage: parseFloat(t['% of time spent on task']),
+      jobCode: t['ANZSCO_Code']
+    }))
 
-  function sortProjects(projects : Project[], _competencies : IterableIterator<Competency>, _jobs : Job[]): Project[]{
+  function sortProjects(projects : Project[], _competencies : IterableIterator<Competency>, jobs : Job[]): Project[]{
+    let jobIds = jobs.map(j => j.code);
+    let jobsTasks = specialistTasks.filter(task => jobIds.includes(task.jobCode));
+    let taskDict = _.groupBy(jobsTasks, t => t.taskName);
 
-    return projects;
+    /* Skills -> Multiplier */
+    let user : Map<string, number> = new Map(Object.entries(_.mapValues(taskDict, v => _.sum(v.map(j => j.timePercentage)) + 1)));
+
+    let sortedProjects =  _.sortBy(projects, (p) => {
+      let baseTime = _.sum(p.tasks.map(t => t.duration));
+      let skilledTime = _.sum(p.tasks.map(t => {
+        if(user.has(t.name)) {
+          return t.duration / user.get(t.name);
+        }
+        else {
+          return t.duration
+        }
+      }));
+      return (skilledTime - baseTime) * p.utility;
+    });
+    console.log(sortedProjects);
+    return sortedProjects;
   }
 
   /* Update the projects*/
   function updateProjects(){
     let sorted = sortProjects(projects, competencies.values(), selectedJobs);
+    let shown = sorted.slice(0, 5);
 
     let projectsDiv = d3.select("#projects");
-    projectsDiv.selectAll(".project")
-      .data(sorted)
-      .enter()
+    let projectsData = projectsDiv.selectAll(".project")
+      .data(shown)
+
+    projectsData.exit().remove()
+
+    projectsData.enter()
       .append("div")
         .attr("class", "project")
         .text(p => p.name)
+
+    projectsDiv.selectAll(".project")
+        .attr("class", "project")
+        .text((p: Project) => p.name)
 
   }
 
@@ -254,7 +290,7 @@ async function main(){
 
   let projectsDiv = d3.select("#projects");
   projectsDiv.selectAll(".project")
-    .data(projects)
+    .data(projects.slice(0, 5))
     .enter()
     .append("div")
       .attr("class", "project")
