@@ -168,10 +168,9 @@ body {
 }
 
 
-
-
 .multiple-select-job{
-  height: 70vh;
+  background:transparent;
+  height: 60vh;
 }
 
 
@@ -185,13 +184,12 @@ select {
   margin-top: 3%;
   border: none;
   border-radius: 10px;
-	align-self: center;
+	align-self: left;
 	color:rgba(9,32,64,1);
 	width: 100%;
 	padding: 15px;
-	height: 70%;
 	cursor: pointer;
-  text-align-last: center;
+  text-align-last: left;
   font-size: x-large;
 }
 
