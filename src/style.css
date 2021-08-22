@@ -284,7 +284,6 @@ div.job-selection:hover{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 10px;
-<<<<<<< HEAD
   width: 15rem;
   height: 250px;
   text-align: left;
@@ -298,13 +297,6 @@ div.job-selection:hover{
   bottom: 0;
   left: 2;
   color: #9dd9dd;
-=======
-  width: 15%;
-  text-align: center;
-  font-weight: bold;
-  min-width: 30rem;
-  min-height: 5rem;
->>>>>>> 2c90f7b76a2354ebe7250a6f2619197921bf02dd
 }
 
 .project:hover {
