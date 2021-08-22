@@ -558,7 +558,11 @@
   "resolved" "https://registry.npmjs.org/acorn-import-assertions/-/acorn-import-assertions-1.7.6.tgz"
   "version" "1.7.6"
 
+<<<<<<< HEAD
+"acorn@^8", "acorn@^8.4.1":
+=======
 "acorn@^8.4.1":
+>>>>>>> 3c3bcf6c99644883acaa8ba0023d41bdd26f2f14
   "integrity" "sha512-asabaBSkEKosYKMITunzX177CXxQ4Q8BSSzMTKD+FefUhipQC70gfW5SiUDhYQ3vk8G+81HqQk7Fv9OXwwn9KA=="
   "resolved" "https://registry.npmjs.org/acorn/-/acorn-8.4.1.tgz"
   "version" "8.4.1"
@@ -576,7 +580,11 @@
   "resolved" "https://registry.npmjs.org/ajv-keywords/-/ajv-keywords-3.5.2.tgz"
   "version" "3.5.2"
 
+<<<<<<< HEAD
+"ajv@^6.12.5", "ajv@^6.9.1":
+=======
 "ajv@^6.12.5":
+>>>>>>> 3c3bcf6c99644883acaa8ba0023d41bdd26f2f14
   "integrity" "sha512-j3fVLgvTo527anyYyJOGTYJbG+vnnQYvE0m5mmkc1TK+nxAppkCLMIL0aZ4dblVCNoGShhm+kzE4ZUykBoMg4g=="
   "resolved" "https://registry.npmjs.org/ajv/-/ajv-6.12.6.tgz"
   "version" "6.12.6"
@@ -1628,11 +1636,14 @@
   "resolved" "https://registry.npmjs.org/fs.realpath/-/fs.realpath-1.0.0.tgz"
   "version" "1.0.0"
 
+<<<<<<< HEAD
+=======
 "fsevents@~2.3.2":
   "integrity" "sha512-xiqMQR4xAeHTuB9uWm+fFRcIOgKBMiOBP+eXiyT7jsgVCq1bkVygt00oASowB7EdtpOHaaPgKt812P9ab+DDKA=="
   "resolved" "https://registry.npmjs.org/fsevents/-/fsevents-2.3.2.tgz"
   "version" "2.3.2"
 
+>>>>>>> 3c3bcf6c99644883acaa8ba0023d41bdd26f2f14
 "function-bind@^1.1.1":
   "integrity" "sha512-yIovAzMX49sF8Yl58fSCWJ5svSLuaibPxXQJFLmBObTuCr0Mf1KiPopGM9NiFjiYBCbfaa2Fh6breQ6ANVTI0A=="
   "resolved" "https://registry.npmjs.org/function-bind/-/function-bind-1.1.1.tgz"
@@ -2544,7 +2555,11 @@
   "resolved" "https://registry.npmjs.org/postcss-value-parser/-/postcss-value-parser-4.1.0.tgz"
   "version" "4.1.0"
 
+<<<<<<< HEAD
+"postcss@^8.1.0", "postcss@^8.2.15":
+=======
 "postcss@^8.2.15":
+>>>>>>> 3c3bcf6c99644883acaa8ba0023d41bdd26f2f14
   "integrity" "sha512-wG1cc/JhRgdqB6WHEuyLTedf3KIRuD0hG6ldkFEZNCjRxiC+3i6kkWUUbiJQayP28iwG35cEmAbe98585BYV0A=="
   "resolved" "https://registry.npmjs.org/postcss/-/postcss-8.3.6.tgz"
   "version" "8.3.6"
@@ -3102,7 +3117,11 @@
     "media-typer" "0.3.0"
     "mime-types" "~2.1.24"
 
+<<<<<<< HEAD
+"typescript@*", "typescript@^4.3.5":
+=======
 "typescript@^4.3.5":
+>>>>>>> 3c3bcf6c99644883acaa8ba0023d41bdd26f2f14
   "integrity" "sha512-DqQgihaQ9cUrskJo9kIyW/+g0Vxsk8cDtZ52a3NGh0YNTfpUSArXSohyUGnvbPazEPLu398C0UxmKSOrPumUzA=="
   "resolved" "https://registry.npmjs.org/typescript/-/typescript-4.3.5.tgz"
   "version" "4.3.5"
@@ -3172,7 +3191,11 @@
   dependencies:
     "minimalistic-assert" "^1.0.0"
 
+<<<<<<< HEAD
+"webpack-cli@^4.8.0", "webpack-cli@4.x.x":
+=======
 "webpack-cli@^4.8.0":
+>>>>>>> 3c3bcf6c99644883acaa8ba0023d41bdd26f2f14
   "integrity" "sha512-+iBSWsX16uVna5aAYN6/wjhJy1q/GKk4KjKvfg90/6hykCTSgozbfz5iRgDTSJt/LgSbYxdBX3KBHeobIs+ZEw=="
   "resolved" "https://registry.npmjs.org/webpack-cli/-/webpack-cli-4.8.0.tgz"
   "version" "4.8.0"
@@ -3247,7 +3270,11 @@
   "resolved" "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.0.tgz"
   "version" "3.2.0"
 
+<<<<<<< HEAD
+"webpack@^4.0.0 || ^5.0.0", "webpack@^4.37.0 || ^5.0.0", "webpack@^5.0.0", "webpack@^5.1.0", "webpack@^5.20.0", "webpack@^5.51.1", "webpack@4.x.x || 5.x.x":
+=======
 "webpack@^5.51.1":
+>>>>>>> 3c3bcf6c99644883acaa8ba0023d41bdd26f2f14
   "integrity" "sha512-xsn3lwqEKoFvqn4JQggPSRxE4dhsRcysWTqYABAZlmavcoTmwlOb9b1N36Inbt/eIispSkuHa80/FJkDTPos1A=="
   "resolved" "https://registry.npmjs.org/webpack/-/webpack-5.51.1.tgz"
   "version" "5.51.1"
