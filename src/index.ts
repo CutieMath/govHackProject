@@ -4,7 +4,6 @@ import competenciesFile from './competencies.csv';
 import jobsFile from './jobs.csv';
 import projectsFile from './projects.csv';
 import projectTasksFile from './projects-tasks.csv';
-//import competenciesJobFile from './competencies-jobs.csv';
 import tasksFile from './tasks.csv';
 import * as _ from 'lodash';
 
@@ -158,7 +157,7 @@ async function main(){
     multiselectOptions.exit().remove();
 
     multiselectOptions.enter()
-      .append("option")
+      .append("div")
         .attr("class", "multiselect-option")
         .attr("value", j => j.title)
         .text(j => j.title)
@@ -174,14 +173,14 @@ async function main(){
   let multiselect = d3.select("#jobs")
     .append("div")
       .attr("class", "multiselect")
-      .append("select")
+      .append("div")
         .attr("class", "multiple-select-job")
         .attr("multiple", true)
 
   multiselect.selectAll(".multiselect-option")
     .data(jobs)
     .enter()
-    .append("option")
+    .append("div")
       .on("click", addJob)
       .attr("class", "multiselect-option")
       .attr("value", j => j.title)
@@ -305,6 +304,7 @@ async function main(){
     .append("div")
     .attr("class", "project-desc-match")
 
+
   let projectDescTasks = d3.select("#project-description")
     .append("div")
     .attr("class", "project-desc-tasks")
@@ -327,6 +327,7 @@ async function main(){
     projectDescHeader.text(project.name);
     projectDescDescription.text(project.description);
     projectDescMatch.text((matchPercentage(project) * 100).toFixed(0)+ "%");
+
     let newTasks = projectDescTasks.selectAll(".project-task")
       .data(project.tasks);
 
