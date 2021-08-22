@@ -112,6 +112,7 @@ body {
   color: white;
   margin: 0;
   padding: 5rem;
+  align-items: center;
 }
 
 .competency-box {
