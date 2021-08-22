@@ -217,27 +217,16 @@ async function main(){
       jobCode: t['ANZSCO_Code']
     }))
 
+  let user : Map<string, number> = new Map();
   function sortProjects(projects : Project[], _competencies : IterableIterator<Competency>, jobs : Job[]): Project[]{
     let jobIds = jobs.map(j => j.code);
     let jobsTasks = specialistTasks.filter(task => jobIds.includes(task.jobCode));
     let taskDict = _.groupBy(jobsTasks, t => t.taskName);
 
     /* Skills -> Multiplier */
-    let user : Map<string, number> = new Map(Object.entries(_.mapValues(taskDict, v => _.sum(v.map(j => j.timePercentage)) + 1)));
+    user = new Map(Object.entries(_.mapValues(taskDict, v => _.sum(v.map(j => j.timePercentage)) + 1)));
 
-    let sortedProjects =  _.sortBy(projects, (p) => {
-      let baseTime = _.sum(p.tasks.map(t => t.duration));
-      let skilledTime = _.sum(p.tasks.map(t => {
-        if(user.has(t.name)) {
-          return t.duration / user.get(t.name);
-        }
-        else {
-          return t.duration
-        }
-      }));
-      return (skilledTime - baseTime) * p.utility;
-    });
-    console.log(sortedProjects);
+    let sortedProjects =  _.reverse(_.sortBy(projects, matchPercentage));
     return sortedProjects;
   }
 
@@ -255,11 +244,15 @@ async function main(){
     projectsData.enter()
       .append("div")
         .attr("class", "project")
+        .on('click', setProjectDescription)
         .text(p => p.name)
 
-    projectsDiv.selectAll(".project")
+    let projectElements = projectsDiv.selectAll(".project")
         .attr("class", "project")
         .text((p: Project) => p.name)
+    projectElements.append("div")
+      .attr("class", "project-multiplier")
+      .text((p:Project) => (matchPercentage(p) * 100).toFixed(0) + '%')
 
   }
 
@@ -297,7 +290,55 @@ async function main(){
     .enter()
     .append("div")
       .attr("class", "project")
+      .on('click', setProjectDescription)
       .text(p => p.name)
 
+  let projectDescHeader = d3.select("#project-description")
+    .append("h2")
+    .attr("class", "project-desc-header")
+
+  let projectDescDescription = d3.select("#project-description")
+    .append("p")
+    .attr("class", "project-desc-decsription")
+
+  let projectDescMatch = d3.select("#project-description")
+    .append("div")
+    .attr("class", "project-desc-match")
+
+  let projectDescTasks = d3.select("#project-description")
+    .append("div")
+    .attr("class", "project-desc-tasks")
+
+  function matchPercentage(project: Project): number {
+    let baseTime = _.sum(project.tasks.map(t => t.duration));
+    let skilledTime = _.sum(project.tasks.map(t => {
+      if(user.has(t.name)) {
+        return t.duration / user.get(t.name);
+      }
+      else {
+        return t.duration
+      }
+    }));
+    return 1 - (skilledTime / baseTime);
+
+  }
+
+  function setProjectDescription(_: MouseEvent, project : Project){
+    projectDescHeader.text(project.name);
+    projectDescDescription.text(project.description);
+    projectDescMatch.text((matchPercentage(project) * 100).toFixed(0)+ "%");
+    let newTasks = projectDescTasks.selectAll(".project-task")
+      .data(project.tasks);
+
+    newTasks.exit().remove();
+
+    newTasks.enter()
+      .append("div")
+      .attr("class", "project-task")
+      .text(t => t.name)
+    projectDescTasks.selectAll(".project-task")
+      .text((t:Task) => t.name)
+
+  }
 }
 main();
