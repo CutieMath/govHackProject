@@ -268,10 +268,10 @@ div.job-selection:hover{
   border-radius: 10px;
   width: 18%;
   height: 400px;
-  text-align: center;
+  text-align: left;
   font-weight: 700;
   font-size: 1.2rem;
-  color: #9dd9dd;
+  color: white;
 }
 
 .project:hover {
