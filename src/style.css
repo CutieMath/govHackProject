@@ -129,7 +129,7 @@ body {
 
 .competency-title{
   font-weight: 700;
-  font-size: 1.5rem;
+  font-size: 1.2rem;
   color: #9dd9dd;
 }
 
@@ -261,12 +261,17 @@ div.job-selection:hover{
 
 .project {
   margin: 10px;
+  padding-top: 10%;
   padding: 1.3rem;
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 10px;
-  width: 15%;
+  width: 18%;
+  height: 400px;
   text-align: center;
+  font-weight: 700;
+  font-size: 1.2rem;
+  color: #9dd9dd;
 }
 
 .project:hover {

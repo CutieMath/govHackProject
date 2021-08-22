@@ -53,6 +53,7 @@ async function main(){
 
   competency
     .append("label")
+    .attr("class", "competency-title")
     .text((c: Competency) => c.name)
 
   competency
