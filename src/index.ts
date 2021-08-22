@@ -293,8 +293,6 @@ async function main(){
     .data(projects.slice(0, 5))
     .enter()
     .append("div")
-      .attr("class", "project")
-      .text(p => p.name)
-
-}
+        .attr("class", "project")
+        .text(p => p.name)}
 main();
