@@ -4,8 +4,8 @@ import competenciesFile from './competencies.csv';
 import jobsFile from './jobs.csv';
 import projectsFile from './projects.csv';
 import projectTasksFile from './projects-tasks.csv';
-import competenciesJobFile from './competencies-jobs.csv';
-import tasksFile from './tasks.csv';
+//import competenciesJobFile from './competencies-jobs.csv';
+//import tasksFile from './tasks.csv';
 
 async function main(){
   type ScoreDescription = {
@@ -101,40 +101,85 @@ async function main(){
     description: string
   };
 
-  function getSelectValues(select : HTMLSelectElement):string[] {
-    let result = [];
-    let options = select && select.options;
-    let opt;
-
-    for (var i=0, iLen=options.length; i < iLen; i++) {
-      opt = options[i];
-
-      if(opt.selected) {
-        result.push(opt.value || opt.text);
-      }
-    }
-    return result;
-  }
-
   let selectedJobs : Job[] = [];
   let jobsData = await d3.csv(jobsFile);
   let jobs : Job[] = jobsData.map((d: d3.DSVRowString) => ({code: d.ANZSCO_Code, title: d.ANZSCO_Title, description: d.ANZSCO_Desc }));
-  function setJobs(_: InputEvent){
-    let selection = getSelectValues(this);
-    selectedJobs = jobs.filter(j => selection.includes(j.title));
+
+  function removeJob(_ : MouseEvent, job : Job){
+    selectedJobs = selectedJobs.filter(j => j.code != job.code);
+    updateJobs()
+  }
+
+  function addJob(_: InputEvent, job : Job){
+    selectedJobs.push(job);
+    updateJobs()
+
     updateProjects();
   }
 
-  let multiselect = d3.select("#jobs")
-    .append("select")
-    .attr("class", "multiple-select-job")
-    .attr("multiple", true)
-    .on('input', setJobs);
+  function updateJobs(){
+    let jobSelection = jobSelections
+      .selectAll(".job-selection")
+      .data(selectedJobs);
+    console.log(selectedJobs);
+    jobSelection.exit().remove();
+    
+    jobSelection.enter()
+      .append("div")
+        .attr("class", "job-selection")
+        .on('click', removeJob)
+        .text(j => j.title)
+  }
 
-  multiselect.selectAll(".pastJobs")
+  let multiselectContainer = d3.select("#jobs")
+    .append("div")
+    .attr("class", "multiselect-container")
+
+  let jobSelections = multiselectContainer.append("div")
+    .attr("class","selections")
+  
+  jobSelections.selectAll("job-selection")
+    .data(selectedJobs)
+    .enter()
+    .append("div")
+      .attr("class", "job-selection")
+      .on('click', removeJob)
+      .text(j => j.title)
+
+  function filterJobs(){
+    let query = this.value; 
+    let filteredJobs = jobs.filter(j => j.title.includes(query));
+    
+    let multiselectOptions = multiselect.selectAll(".multiselect-option")
+        .data(filteredJobs);
+
+    multiselectOptions.exit().remove();
+
+    multiselectOptions.enter()
+      .append("option")
+        .attr("class", "multiselect-option")
+        .attr("value", j => j.title)
+        .text(j => j.title)
+    multiselectOptions.text(j => j.title)
+  }
+
+  multiselectContainer.append("input")
+    .attr("class","filter")
+    .on("input", filterJobs)
+
+  let multiselect = d3.select("#jobs")
+    .append("div")
+      .attr("class", "multiselect")
+      .append("select")
+        .attr("class", "multiple-select-job")
+        .attr("multiple", true)
+
+  multiselect.selectAll(".multiselect-option")
     .data(jobs)
     .enter()
     .append("option")
+      .on("click", addJob)
+      .attr("class", "multiselect-option")
       .attr("value", j => j.title)
       .text(j => j.title)
 
@@ -152,10 +197,16 @@ async function main(){
     tasks: Task[]
   } 
 
-  let competenciesJobData = await d3.csv(competenciesJobFile);
-  let tasksData = await d3.csv(tasksFile);
+  //let competenciesJobData = await d3.csv(competenciesJobFile);
+  //let tasksData = await d3.csv(tasksFile);
+  /*type SpecialistTask = {
+    jobTitle: string,
+    taskName: sring,
 
-  function sortProjects(projects : Project[], competencies : IterableIterator<Competency>, jobs : Job[]): Project[]{
+  };*/
+
+  function sortProjects(projects : Project[], _competencies : IterableIterator<Competency>, _jobs : Job[]): Project[]{
+
     return projects;
   }
 
