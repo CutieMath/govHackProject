@@ -125,6 +125,7 @@ body {
   transition: 0.3s;
   border-radius: 10px;
   width: 30%;
+  min-width: 250px;
 }
 
 .competency-title{
@@ -180,7 +181,7 @@ body {
 .input-search{
   text-align: center;
   height: 51px;
-  width: 20%;
+  width: 20rem;
   outline: none;
   cursor: pointer;
   border: 4px solid #1F6A7D;
@@ -191,6 +192,14 @@ body {
   border-left: 4px solid #1F6A7D;
 }
 
+
+.multiselect{
+  overflow: auto;
+}
+
+.multiselect-option{
+  font-size: 1.5rem;
+}
 
 .multiple-select-job{
   background:transparent;
@@ -270,7 +279,7 @@ div.job-selection:hover{
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
   border-radius: 10px;
-  width: 18%;
+  width: 15rem;
   height: 250px;
   text-align: left;
   font-weight: 700;
