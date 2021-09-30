@@ -150,13 +150,10 @@ async function main(){
   function filterJobs(){
     let query = this.value.toLowerCase(); 
     let filteredJobs = jobs.filter(j => j.title.toLowerCase().includes(query));
-    console.log(jobs);
-
     let multiselectOptions = multiselect.selectAll(".multiselect-option")
         .data(filteredJobs);
 
-    multiselectOptions.exit().remove();
-
+    // multiselectOptions.exit().remove();
     multiselectOptions.enter()
       .append("div")
         .attr("class", "multiselect-option")
