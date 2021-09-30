@@ -148,9 +148,10 @@ async function main(){
       .text(j => j.title)
 
   function filterJobs(){
-    let query = this.value; 
-    let filteredJobs = jobs.filter(j => j.title.includes(query));
-    
+    let query = this.value.toLowerCase(); 
+    let filteredJobs = jobs.filter(j => j.title.toLowerCase().includes(query));
+    console.log(jobs);
+
     let multiselectOptions = multiselect.selectAll(".multiselect-option")
         .data(filteredJobs);
 
