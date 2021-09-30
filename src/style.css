@@ -9,7 +9,7 @@
 * Whole page
 *****************
 */
-h1, h2, p, div {
+h1, h2, p, div, button {
   font-family: 'Noto Sans TC', sans-serif;
 }
 
@@ -183,8 +183,24 @@ input{
 
 .search-flex {
   display: flex;
+  margin-bottom: 4px;
 }
 
+.job-section-next-step {
+  border-radius: 10px;
+  margin-left: 1rem;
+  padding: 10px;
+  background: transparent;
+  border: 4px solid #1F6A7D;
+  font-size: 1.2rem;
+  font-weight: bold;
+  color:#1F6A7D;
+}
+
+.job-section-next-step:hover {
+  background: rgb(11,88,112);
+  color: white;
+}
 
 /* search box */
 .input-search{
